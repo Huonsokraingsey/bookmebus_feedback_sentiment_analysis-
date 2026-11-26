@@ -281,4 +281,3 @@ All AI-generated code and text was reviewed by the team. The gold labels for the
 - Grave, E., et al. (2018). Learning word vectors for 157 languages. *LREC 2018*.
 - Hochreiter, S., & Schmidhuber, J. (1997). Long short-term memory. *Neural Computation, 9*(8), 1735–1780.
 - Cohen, J. (1960). A coefficient of agreement for nominal scales. *Educational and Psychological Measurement, 20*(1), 37–46.
-- Notebook structure follows the ITM 454 course notebooks.

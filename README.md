@@ -127,7 +127,7 @@ nlp_project/
 Requires **Python 3.12 or newer**. The results were produced with **Python 3.13.15** on Windows 11, PyTorch 2.14.1 + CUDA 12.6 on an NVIDIA RTX 4060 laptop GPU (8 GB). `requirements.txt` pins the exact package versions we used.
 
 ```powershell
-git clone https://github.com/Huonsokraingsey/bookmebus_feedback_sentiment_analysis.git nlp_project
+git clone https://github.com/Huonsokraingsey/bookmebus_feedback_sentiment_analysis-.git nlp_project
 cd nlp_project
 python -m venv .venv
 .venv\Scripts\Activate.ps1                       # Mac/Linux: source .venv/bin/activate

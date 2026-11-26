@@ -19,7 +19,7 @@
     "mixed_precision": true,
     "device": "cuda"
   },
-  "training_time_sec": 121.94,
+  "training_time_sec": 122.87,
   "test_translated": {
     "accuracy": 0.9749,
     "macro_f1": 0.9749

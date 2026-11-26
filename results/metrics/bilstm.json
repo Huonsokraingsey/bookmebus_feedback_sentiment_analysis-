@@ -1,0 +1,36 @@
+{
+  "model": "bilstm",
+  "model_type": "Neural network",
+  "model_name": "BiLSTM + fastText",
+  "input_features": "khmer-nltk words \u2192 fastText Khmer embeddings (fine-tuned)",
+  "uses_word_order": "yes",
+  "uses_context": "yes (reads the review in both directions)",
+  "trainable_parameters": 908998,
+  "best_val_macro_f1": 0.9104,
+  "settings": {
+    "max_len": 47,
+    "vocab_size": 1507,
+    "embedding": "fastText cc.km.300",
+    "freeze_embeddings": false,
+    "hidden_size": 128,
+    "dropout": 0.3,
+    "batch_size": 32,
+    "lr": 0.001,
+    "epochs": 15,
+    "best_epoch": 11,
+    "device": "cuda",
+    "frozen_embeddings_best_val_macro_f1": 0.9103
+  },
+  "training_time_sec": 3.75,
+  "test_translated": {
+    "accuracy": 0.919,
+    "macro_f1": 0.9189
+  },
+  "test_native": {
+    "accuracy": 0.715,
+    "macro_f1": 0.6797,
+    "pure_khmer_macro_f1": 0.7078,
+    "code_switched_macro_f1": 0.4296
+  },
+  "test_native_label_source": "gold"
+}

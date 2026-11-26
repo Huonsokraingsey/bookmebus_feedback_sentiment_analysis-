@@ -1,0 +1,44 @@
+{
+  "preprocessing": [
+    {
+      "variant": "Our pre-processing (segmentation, cleaning, negation kept)",
+      "val_macro_f1": 0.9244,
+      "features": 9509
+    },
+    {
+      "variant": "Without negation words (មិន, ទេ, គ្មាន, not …)",
+      "val_macro_f1": 0.9159,
+      "features": 9305
+    },
+    {
+      "variant": "Stopwords removed (function words + negation)",
+      "val_macro_f1": 0.9102,
+      "features": 5647
+    },
+    {
+      "variant": "Segmentation only (no cleaning / normalization)",
+      "val_macro_f1": 0.9328,
+      "features": 10081
+    },
+    {
+      "variant": "No word segmentation (split on spaces only)",
+      "val_macro_f1": 0.7762,
+      "features": 1474
+    }
+  ],
+  "class_weights": [
+    {
+      "class_weight": "balanced",
+      "val_macro_f1": 0.9384,
+      "val_f1_negative": 0.9375,
+      "val_f1_positive": 0.9392
+    },
+    {
+      "class_weight": "None",
+      "val_macro_f1": 0.9384,
+      "val_f1_negative": 0.9375,
+      "val_f1_positive": 0.9392
+    }
+  ],
+  "note": "Validation set only (357 reviews). Training set: 1429 negative / 1429 positive."
+}

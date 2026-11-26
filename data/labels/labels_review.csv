@@ -1,0 +1,1920 @@
+row_id,label,confidence,mixed,exclude,exclude_reason,translation_issue,note,reason,rule
+4014,positive,high,no,no,,no,,'perfect everything' with hearts,
+2933,negative,high,no,no,,no,,says staff's words are rude and hard to accept,
+847,positive,high,no,no,,no,,'good service',
+343,positive,high,no,no,,no,,'Professional' praise,
+3795,negative,high,no,no,,no,,"staff grumpy, inconsiderate, angry emojis",emoji
+2051,positive,medium,no,no,,no,,'Everything was fine' lukewarm positive,R4
+1631,positive,high,no,no,,no,,"'Excellent', will book again",
+1307,positive,high,no,no,,no,Chinese original,"Chinese: great, free early change, fast trip",
+3764,negative,medium,no,no,,no,,could not change a wrongly bought ticket,
+2494,positive,high,no,no,,no,,"kind, good driver",
+1075,negative,high,no,no,,no,,'the air-con is a heater',
+3858,negative,medium,no,no,,no,,not informed about vehicle change,
+1817,positive,high,no,no,,no,,"'Very good, thank you'",
+2681,positive,high,no,no,,no,,'Very good',
+1363,positive,high,no,no,,no,,'great ride',
+3612,positive,high,no,no,,no,,'Best service',
+28,negative,high,no,no,,no,,'Horrible customer service',
+3111,negative,high,no,no,,no,,seats uncomfortable to sit on,
+2034,negative,high,no,no,,no,,'NEVER AGAIN',
+2781,negative,high,no,no,,no,,back-and-forth wasted passengers' time,
+1615,negative,high,no,no,,no,,van very hot,
+850,positive,medium,no,no,,no,,'that's good' short approval,R4
+2286,positive,high,no,no,,no,,"good service, great staff",
+2892,neutral,medium,no,no,,no,,no actual opinion given,R5
+3946,negative,high,no,no,,no,,bus 1h late,
+2798,positive,high,no,no,,no,,very comfortable trip,
+1456,negative,high,no,no,,no,,"jerky braking/acceleration, annoyed emoji",emoji
+3759,positive,high,no,no,,no,,'Very good company',
+2733,positive,high,no,no,,no,,driver very nice,
+939,positive,high,no,no,,no,,'good service',
+1739,negative,high,no,no,,no,,wires tangled/messy because vehicle is old,
+1034,positive,medium,no,no,,no,,'Thank you!' expresses appreciation,
+3268,positive,high,no,no,,no,,'good driving',
+1831,positive,high,no,no,,no,,'Great comfort',
+519,positive,high,no,no,,no,,"really good service, would use again",
+173,neutral,medium,yes,no,,no,,'All is ok' but warns against seat 1 - similar weight,R1
+2637,positive,high,no,no,,no,,"great service, punctual, courteous",
+122,positive,high,no,no,,no,,'Good',
+2628,positive,high,no,no,,no,,"on time, safe driving",
+1959,negative,high,no,no,,no,,driver speeding (safety),R1
+1682,positive,high,no,no,,no,,comfortable trip,
+2536,negative,high,no,no,,no,,extremely expensive,
+3327,positive,high,no,no,,no,,'Nothing to complain about',
+1798,positive,high,no,no,,no,,'Every time perfect',
+637,negative,high,no,no,,no,,"'Worst', don't use",
+534,negative,low,no,no,,no,,complains no watermelon on boat (possibly jokey),
+990,positive,high,no,no,,no,,'Great service!',
+3435,negative,high,no,no,,no,,bus left 90 min late,
+1589,negative,high,no,no,,no,,aircon not good,
+2338,positive,medium,no,no,,no,,'Satisfactory' lukewarm positive,R4
+247,negative,high,no,no,,no,,air-con broken,
+4032,negative,high,no,no,,no,,very bad driver,
+4101,negative,high,no,no,,no,,bad booking experience,
+2946,negative,high,no,no,,no,,air-con not cold enough,
+1470,neutral,medium,yes,no,,no,,'Good' but always delayed - similar weight,R1
+3184,positive,high,no,no,,no,,really enjoyed travelling,
+910,positive,high,no,no,,no,,punctual,
+3618,,,no,yes,meaningless text,no,,laughter '5555' and a name; no opinion,R6
+3066,positive,high,no,no,,no,,'Best of the best',
+3894,positive,high,no,no,,no,,"great service, recommended",
+3717,positive,high,no,no,,no,,"good service, keep it up",
+1037,positive,high,no,no,,no,,"fast, safe",
+1821,positive,high,no,no,,no,,'Good service',
+1782,negative,high,no,no,,no,,no drinking water handed out,
+3421,negative,high,no,no,,no,,"cramped, hard to sit",
+1542,positive,high,no,no,,no,,"good price, comfortable",
+1971,positive,high,no,no,,no,,'convenient',
+3589,positive,high,no,no,,no,,"fine, nice staff",
+1296,positive,high,no,no,,no,,'Good overall',
+3223,positive,high,no,no,,no,,'So good',
+1166,positive,high,no,no,,no,,'Good job!',
+376,positive,high,no,no,,no,,'Good drive',
+487,negative,high,no,no,,no,,scary driving (safety) outweighs speed,R1
+3095,positive,high,no,no,,no,,'All was perfect',
+2298,negative,medium,no,no,,no,,seats quite tight,
+1884,negative,medium,no,no,,no,,picks up extra passengers along the road,
+3050,neutral,high,no,no,,no,,"'don't know what to say, can't write'",R5
+1897,positive,medium,no,no,,no,,'quite good',R4
+3448,negative,high,no,no,,no,,'Terrible driving!',R1
+988,positive,high,no,no,,no,,really like the service,
+3115,positive,high,no,no,,no,,great safe drive,
+2710,positive,high,no,no,,no,,very good experience,
+927,positive,high,no,no,,no,,good experience,
+2919,positive,high,no,no,,no,,"professional driver, love it",
+2598,positive,high,no,no,,no,,"punctual, safe driver",
+904,negative,high,no,no,,no,,"fast, constant overtaking, hard braking (safety)",R1
+1379,positive,high,no,no,,no,,'Very nice!',
+244,positive,high,no,no,,no,,"on time, good van",
+2318,positive,medium,no,no,,no,,👌 only,emoji
+2714,positive,high,no,no,,no,,everything perfect,
+561,positive,high,no,no,,no,Russian original,Russian 'I recommend',
+3240,positive,high,no,no,,no,,"polite, good driver",
+1945,negative,high,no,no,,no,,stopped many times to pick up passengers,
+1773,,,no,yes,meaningless text,no,,only a name,R6
+1993,positive,high,no,no,,no,,'It's good',
+1986,negative,medium,no,no,,no,,booking system slow with seat management,
+3163,positive,high,no,no,,no,,very satisfied with the company,
+3242,negative,high,no,no,,no,,"driver careless, speeding (safety)",R1
+3928,negative,high,no,no,,no,,driver much too fast (safety),R1
+3259,positive,medium,no,no,,no,,"fast, arrived 1 hour early",
+86,positive,high,no,no,,no,,"all fine, would recommend",
+3796,negative,medium,no,no,,no,indirect complaint,request for water implies none was provided,R7
+708,positive,high,no,no,,no,French original,"French: very good trip, punctual (name appended)",
+992,negative,high,no,no,,no,,no seatbelt in last row (safety),R1
+264,,,no,yes,meaningless text,no,,"single word/name, no opinion",R6
+656,positive,high,no,no,,no,,'Good service',
+1310,positive,low,no,no,,no,could be read as 'nothing special' (neutral),"'Good', then 'nothing particular' (to add) - leans positive",R4
+2603,positive,high,no,no,,no,,"kind, safe driver",
+2918,negative,high,no,no,,no,,"dangerous van, no lights",
+2192,positive,high,no,no,,no,,'Satisfied',
+1885,positive,high,no,no,,no,,'it's good',
+2754,positive,high,no,no,,no,,good safe driver,
+3737,negative,high,no,no,,no,,trip timing not correct,
+2315,,,no,yes,meaningless text,no,,only a name,R6
+1105,negative,high,no,no,,no,,car not clean,
+1030,positive,high,no,no,,no,,"clean, efficient service",
+3034,positive,high,no,no,,no,,'Highly recommended',
+1051,negative,high,no,no,,no,,driver too fast (safety),R1
+3818,negative,high,no,no,,no,,receipt not sent,
+1120,negative,medium,no,no,,no,,young driver speeding (safety),R1
+3988,neutral,medium,yes,no,,no,,good ride but 1h late - equal weight,R1
+2938,positive,high,no,no,,no,,'Brilliant service',
+3103,negative,high,no,no,,no,,no air conditioning,
+1844,positive,high,no,no,,no,,likes the service,
+1042,positive,high,no,no,,no,,"nice, comfortable",
+1514,negative,low,no,no,,no,ambiguous comparative,complains driver is slow,
+3600,negative,high,no,no,,no,,seat keeps getting changed,
+1068,neutral,medium,no,no,,no,,"wish for later departure times, no complaint",R7
+3763,neutral,medium,no,no,,no,,'no' - no opinion,R5
+3931,positive,high,no,no,,no,,"very good service, thanks",
+409,negative,high,no,no,,no,,drives too fast (safety),R1
+729,positive,high,no,no,,no,,'All was good!',
+2983,positive,medium,no,no,,no,,"good trip, only 'a bit' cold",R1
+2666,positive,high,no,no,,no,,"friendly, safe, quick",
+88,positive,medium,no,no,,no,,'Is ok!!! Thanks',R4
+943,positive,high,no,no,,no,,"great trip, reliable",
+3075,negative,high,no,no,,no,,"air-con hot, not cold at all",
+243,positive,high,no,no,,no,,'great',
+3756,negative,high,no,no,,no,,keeps picking up people along the road,
+114,positive,high,no,no,,no,,nice trip,
+1035,negative,high,no,no,,no,,"excessive speed, ignores safety",R1
+545,negative,high,no,no,,no,,ferry 45 min late,
+3985,positive,high,no,no,,no,,good experience,
+820,positive,low,no,no,,no,typo,'hood' - evident typo for 'good',
+1350,negative,high,no,no,,no,,"seat tilted, hard to sit",
+1702,positive,high,no,no,,no,,"good service, satisfied 👍",
+3134,positive,high,no,no,,no,,good friendly safe driver,
+2523,positive,high,no,no,,no,French original,French 'very good',
+3720,negative,high,no,no,,no,,air-con not cold,
+639,negative,high,no,no,,no,,'service not good',
+1213,positive,high,no,no,,no,,good experience,
+971,negative,low,no,no,,no,,"a bit cramped for foreigners, softened by smiley",
+30,positive,medium,no,no,,no,,'Okay',R4
+326,negative,medium,no,no,,no,,car a bit old,
+2644,neutral,high,yes,no,,no,,"bus company great, BookMeBus bad",R2
+1092,positive,high,no,no,,no,,'All perfect',
+83,positive,high,no,no,,no,,'Perfect service!',
+917,positive,high,no,no,,no,,"good, fast service",
+2779,positive,high,no,no,,no,French original,French 'Parfait',
+1108,positive,high,no,no,,no,,"trusted company, thanks",
+1249,positive,high,no,no,,no,,'best service ever',
+2967,positive,medium,no,no,,no,,'almost perfect' except timing,R1
+1790,negative,high,no,no,,no,,'cramped',
+3832,positive,high,no,no,,no,,"safe, good trip",
+1485,negative,high,no,no,,no,,uncomfortable jerky driving,
+3124,negative,high,no,no,,no,,started 45 min late,
+958,positive,high,no,no,,no,,'Service very good',
+919,negative,high,no,no,,no,,not punctual,
+1770,negative,high,no,no,,no,,asks to fix air-con which is not cold,R7
+1430,positive,high,no,no,,no,,"comfortable, punctual, safe",
+3122,positive,high,no,no,,no,,highly appreciates service,
+3078,positive,high,no,no,,no,,'Good vip car',
+1498,negative,high,no,no,,no,,seats hard to sit on,
+3770,,,no,yes,meaningless text,no,,only a name,R6
+1806,negative,high,no,no,,no,,paid but did not get to ride,
+3068,neutral,medium,no,no,,no,,"asks for extra night trips, no complaint",R7
+574,positive,high,no,no,,no,,"good service, would recommend",
+598,positive,high,no,no,,no,,'Good company',
+277,positive,high,no,no,,no,,excellent service and staff,
+57,positive,medium,no,no,,no,,'All ok no problem',R4
+3709,negative,high,no,no,,no,,2 hours late,
+751,neutral,medium,yes,no,,no,,Wi-Fi broken vs. rest good - similar weight,R1
+4051,positive,high,no,no,,no,,'Great',
+3158,positive,high,no,no,,no,,'Good Services',
+1815,neutral,high,no,no,,no,,'N.A' - no opinion,R5
+3523,positive,high,no,no,,no,,"perfect trip, would ride again",
+1866,positive,medium,no,no,,no,,"'good, acceptable'",R4
+2130,positive,high,no,no,,no,,very good service,
+1510,negative,low,no,no,,no,could also mean arrived early,driver drove faster than planned (speed),R1
+3755,negative,high,no,no,,no,,3h late,
+3510,positive,high,no,no,,no,,'Good travel',
+3588,negative,high,no,no,,no,,bus left late,
+3868,positive,high,no,no,,no,,everything went smoothly,
+7,positive,high,no,no,,no,,"excellent, reliable",
+1987,positive,high,no,no,,no,,"excellent, very comfortable",
+1280,positive,high,no,no,,no,,'best',
+2468,positive,medium,no,no,,no,,'fairly good',R4
+3253,negative,high,no,no,,no,,drove too fast (safety),R1
+2799,positive,medium,no,no,,no,,encourages keeping the good service,
+3094,positive,high,no,no,,no,,very good driver and services,
+712,neutral,medium,yes,no,,no,,helpful counter lady vs slow 2h return ferry,R1-balanced
+3440,positive,high,no,no,,no,,"'excellent', late departures only 'sometimes'",R1-minor
+2727,negative,medium,no,no,,no,,misinformation caused 1h late departure; only 'ride was ok',R1-major
+1893,negative,medium,no,no,,no,Khmer,"got carsick after only 6h, implies rough ride",indirect complaint
+3585,positive,high,no,no,,no,,"'service is great', start point 'a bit' hard to find",R1-minor
+621,neutral,medium,yes,no,,no,,good service and punctual vs too many stops on return,R1-balanced
+826,positive,medium,no,no,,no,,"AC too cold but on time, cheerful staff, thanks again",R1-minor
+2183,neutral,medium,yes,no,,no,,two improvement points vs 'overall the rest are ok',R1-balanced
+2022,neutral,medium,yes,no,,no,,"praises Mey Hong strongly, complains BookMeBus refused pickup",R2
+3084,negative,high,no,no,,no,,"very fast, overtaking, phone while driving, 'Dangerous!'",R1-safety
+2280,neutral,medium,yes,no,,no,,"excellent driver, clean vs very narrow seats/legroom",R1-balanced
+3329,neutral,medium,yes,no,,no,,"'overall good', safe vs detailed drop-off confusion complaint",R1-balanced
+699,negative,medium,no,no,,no,,"return ferry broke down mid-water, arrived late",R1-major
+3598,positive,high,no,no,,no,R3 excuse inside positive review,"on time, border help, helpful inspector; roadworks excused",
+3121,positive,high,no,no,,no,Khmer,"clean new bus, comfortable seats, cheerful driver",
+2242,negative,medium,no,no,,no,,delay partly others' fault but company should explain border better,R3
+3594,positive,high,no,no,,no,,"nice staff, border help, very good trip",
+3316,negative,medium,no,no,,no,,"time change, AC off, long stops; 'cheap but less than ideal'",R1-major
+2128,positive,high,no,no,,no,,"overall good, driver good, free tuk tuk",
+4074,positive,medium,no,no,,no,,many stops but decent time :),R1-minor
+1317,positive,medium,no,no,,no,,"great staff, clean bus; lateness 'just a little disappointed'",R1-minor
+1078,neutral,medium,yes,no,,no,,"fast vs hot bus, weak AC",R1-balanced
+3336,negative,high,no,no,,no,,"no space, driver wanted to leave them, bad administration",
+2119,neutral,medium,yes,no,,no,,"'overall okay' vs strong toilet smell, late",R1-balanced
+3689,positive,medium,no,no,,no,,"'better than expected', careful driver; old van, 'only 20 min' late",R1-minor
+1580,negative,high,no,no,,no,,"very disappointed, no seat selection, worst seat",
+571,negative,medium,no,no,,no,,"overbooked boat, had to wait for next one",
+1552,negative,high,no,no,,no,,"arrived 1h late, missed boat, no WiFi as advertised",
+331,negative,medium,no,no,,no,,'overall good' service but driver too fast; no water,R1-safety
+3282,negative,medium,no,no,,no,safety overrides 'a little',good trip/value but driving 'a little reckless at times',R1-safety
+2164,negative,medium,no,no,,no,,"leaking roof, not VIP, far station, overpriced",R1-major
+4113,negative,high,no,no,,no,,"uncomfortable seats, driver keeps talking on phone",R1-safety
+250,negative,high,no,no,,no,,"no luggage room, badly timed stop",
+3570,positive,medium,no,no,,no,,"describes transfer, 'work fine'",
+2889,positive,high,no,no,,no,,"fine, cheap, on time; beds 'a little' uncomfortable",R1-minor
+1644,positive,high,no,no,,no,,"felt safe, clean, recommend; legroom 'a little' cramped",R1-minor
+2429,positive,medium,no,no,,no,,"fast but impressed not scared, comfortable, 'no big complaints'",R1-minor
+1397,positive,medium,no,no,,no,,"crowded van 'but as advertised', could choose seat",R1-minor
+2515,negative,medium,no,no,,no,,'overall very good' but driver browses phone while driving,R1-safety
+1085,neutral,high,yes,no,,no,,"cramped, no recline vs on time, pleasant driver",R1-balanced
+91,negative,high,no,no,,no,,very angry about extra $5 charge,
+3070,negative,high,no,no,,no,,"overbooking via BookMeBus, moved 3h, won't use again",R2
+1149,negative,medium,no,no,,no,,"return seat super hot, no curtain; outbound only 'ok'",R1-major
+11,negative,high,no,no,,no,,ferry left late and arrived 45 min late,
+2224,positive,high,no,no,,no,,"excellent driving; bad language 'does not take away', overall good",R1-minor
+631,negative,high,no,no,,no,,"waited 45 min, dropped off in wrong order",
+3633,negative,high,no,no,,no,,"late, seats taken, horrible driver",
+45,negative,high,no,no,,no,,"good outbound, very poor return, 1h late, rude staff",R1-major
+3789,negative,high,no,no,,no,,"crazy speeding, blind overtaking, bad stops",R1-safety
+2545,negative,high,no,no,,no,,half hour late and driver lied,
+844,negative,medium,no,no,,no,safety overrides praise,very positive but driver used mobile phone while driving,R1-safety
+3619,negative,high,no,no,,no,,"no confirmation email, missed bus, zero recommendation",
+3553,positive,medium,no,no,,no,,comfortable van; no recline 'a little' difficult to sleep,R1-minor
+832,negative,medium,no,no,,no,,"clean, smooth but fast driving 'felt a bit unsafe'",R1-safety
+1562,positive,high,no,no,,no,,"excellent, safe, recommend; AC 'a little hot'",R1-minor
+19,negative,high,no,no,,no,,"ticket problems, 2h wait, ferry engine failure",
+3007,positive,high,no,no,,no,,"5 min late but early arrival, very safe driver",
+2617,positive,high,no,no,,no,,"punctual, reclining seats, enjoyed",
+215,neutral,medium,yes,no,,no,,company and driver very good vs unpleasant sleeper berths,R1-balanced
+2054,positive,medium,no,no,,no,,good service; 'only annoying' extra stops,R1-minor
+1724,negative,high,no,no,,no,,"extra passengers picked up, seat taken",
+586,negative,high,no,no,,no,,"'ok service' but suitcase wheel broken, really upset",R1-major
+674,negative,high,no,no,,no,,drove fast and killed two puppies,R1-safety
+1100,negative,medium,no,no,,no,,"question about cash tickets; card failed, 'not ideal'",R7
+3437,neutral,medium,yes,no,,no,,"enjoyed, felt safe vs 40 min late, 9h trip, breakdown",R1-balanced
+2180,positive,medium,no,no,,no,,"good bus, smooth, food, free tuk-tuk; promised pickup missing",R1-minor
+229,neutral,medium,yes,no,,no,,fine for writer but another passenger bumped despite ticket,R1-balanced
+3785,negative,high,no,no,,no,,"wrong check caused 1h delay, no seatbelt, dirty car",R1-safety
+315,positive,medium,no,no,,no,,"AC failure fixed by changing bus; alright, will take again",R1-minor
+3004,neutral,medium,yes,no,,no,,"good beds, early arrival vs late start, too cold AC, screaming wake-ups",R1-balanced
+1477,neutral,medium,yes,no,,no,,"clean van, good AC vs two restaurant stops wasting time",R1-balanced
+2247,negative,medium,no,no,,no,,"on time, kind inspector vs yelling driver, noisy bus, hot AC",R1-major
+2469,negative,medium,no,no,,no,Khmer,asks not to add seats beyond insured capacity (overloading),indirect complaint
+2053,negative,medium,no,no,,no,,border unloading and $3 bribe by officials; company not excused,R3
+538,negative,high,no,no,,no,Khmer,"return trip stopped at many places, wasted time",
+3287,positive,high,no,no,,no,,"let me take earlier bus, good stops, thanks <3",
+1341,positive,high,no,no,,no,,"new bus, good service, 'the best'",
+2466,negative,high,no,no,,no,,"no improvement, late, narrow beds, breakdown",
+3908,negative,high,no,no,,no,,"bus very cramped, cannot move",
+1501,positive,high,no,no,,no,,excellent choice; small guidance suggestion,R1-minor
+3505,negative,medium,no,no,,no,,"good outbound, bad return: driving too fast, dirty car",R1-safety
+2017,negative,high,no,no,,no,Khmer,"asks driver to be careful; harsh braking, felt unsafe",R1-safety
+1785,negative,high,no,no,,no,Khmer,"no water given, asks to hand out water",R7
+4045,negative,medium,no,no,,no,,"arrived 3h early at 4AM, slept in hotel hall",
+2978,positive,medium,no,no,,no,,"'otherwise all good', would recommend; tight seats",R1-minor
+1472,negative,high,no,no,,no,,"'worst trip ever', noisy passengers; company not excused",R3
+871,negative,high,no,no,,no,,driver stopped for himself and locked passengers in,
+1819,negative,high,no,no,,no,Khmer,"frequent pickups, old bus, broken seat, 40 min late",
+973,negative,medium,no,no,,no,,very safe driver but seatbelt broken,R1-safety
+704,positive,high,no,no,,no,,"BookMeBus great, 'a bit late but isn't everything'",R1-minor
+4083,negative,high,no,no,,no,,"stopped ~20 times, arrived late",
+1500,negative,high,no,no,,no,Khmer,"driver didn't pick up 6 people in the rain, very upset",
+3917,negative,high,no,no,,no,,"ticket not found, 1h wait, overloaded taxi",
+1638,positive,medium,no,no,,no,,"smooth fast ride, early arrival; some unjustified stops",R1-minor
+3455,negative,medium,no,no,,no,,'one of the best' but very high speed is 'a problem',R1-safety
+3463,negative,high,no,no,,no,,"trash, roaches, leaking AC",
+746,negative,high,no,no,,no,,"reservation error, staff blamed and shouted at writer",
+3339,negative,high,no,no,,no,,seats extremely uncomfortable,
+3317,positive,high,no,no,,no,,AC too cold but otherwise everything fine,R1-minor
+3430,negative,medium,no,no,,no,,friendly driver but loud passengers whole trip; company not excused,R3
+1737,positive,high,no,no,,no,,good and comfortable,
+3128,negative,high,no,no,,no,,driver very rude,
+3839,positive,high,no,no,,no,,easy comfortable trip,
+677,positive,high,no,no,,no,,great safe drive,
+312,neutral,medium,no,no,,no,,"only the route (booking info), no opinion",R5
+3216,negative,medium,no,no,,no,,'service should be better',indirect complaint
+2953,negative,medium,no,no,,no,,car makes noise,
+1914,positive,high,no,no,,no,,"good service, enjoyed",
+1862,positive,medium,no,no,,no,,'Not bad',R4
+1413,positive,medium,no,no,,no,,'OK',R4
+499,positive,high,no,no,,no,,very punctual and quick,
+335,positive,high,no,no,,no,,very good overall,
+3330,positive,high,no,no,,no,,right on time,
+837,positive,high,no,no,,no,,everything went well,
+1745,positive,high,no,no,,no,,easy comfortable trip,
+344,positive,high,no,no,,no,,'Great',
+1977,,,no,yes,meaningless text,no,,only a name,R6
+3604,positive,medium,no,no,,no,,'The trip was ok',R4
+3043,positive,medium,no,no,,no,,'Thanks' expresses appreciation,
+1256,positive,high,no,no,,no,,'Good Service',
+450,negative,high,no,no,,no,,too fast and dangerous (safety),R1
+2861,positive,high,no,no,,no,,Battambang branch is good,
+1769,positive,high,no,no,,no,,'very good',
+1766,positive,high,no,no,,no,,'Good way' with wink,
+1653,negative,medium,no,no,,no,,no amenities provided,
+3149,negative,medium,no,no,,no,,trip took ~6h instead of stated 5h,
+1279,negative,high,no,no,,no,,'worst',
+263,positive,high,no,no,,no,,thanks for safe driving,
+181,positive,high,no,no,,no,,very safe service,
+599,positive,medium,no,no,,no,,relatively fast and comfortable,
+261,positive,high,no,no,,no,,arrived on time,
+286,positive,high,no,no,,no,,"good service, wants to ride again",
+1734,positive,high,no,no,,no,,'good!!',
+3097,positive,high,no,no,,no,,very good driver,
+3098,negative,high,no,no,,no,,no air-con,
+1741,negative,high,no,no,,no,,"bus broke down many times overnight, arrived late",
+1080,negative,medium,no,no,,no,indirect complaint,request for water implies none was provided,R7
+3051,positive,high,no,no,,no,,👍😊 only,emoji
+184,positive,high,no,no,,no,,driver very nice,
+1329,positive,high,no,no,,no,,'best quality',
+1988,negative,high,no,no,,no,,'Time Late',
+2020,positive,high,no,no,,no,,'Fantastic',
+1127,positive,high,no,no,,no,,fast and efficient,
+3664,negative,high,no,no,,no,,'shit service',
+3258,negative,high,no,no,,no,,seats too narrow,
+1541,positive,high,no,no,,no,,'Great service',
+1878,negative,medium,no,no,,no,,asks to depart on schedule - implies delays,R7
+2239,positive,high,no,no,,no,,pleasant bus trip,
+4090,positive,high,no,no,,no,,clean and fast,
+190,positive,high,no,no,,no,,recommended,
+112,positive,high,no,no,,no,Spanish original,"Spanish: punctual, good AC, comfortable",
+3752,positive,medium,no,no,,no,,'Very Express' - praises speed,
+165,positive,high,no,no,,no,,"smooth, well organised",
+2299,positive,high,no,no,,no,,very good driver,
+2770,positive,high,no,no,,no,,'good quality',
+760,positive,high,no,no,,no,,"great service, recommend",
+1294,negative,high,no,no,,no,,insults the company,
+2296,positive,high,no,no,,no,,good service and driver,
+2956,negative,high,no,no,,no,,"booked seat 7, got seat 14",
+3110,positive,high,no,no,,no,,'Brilliant transport',
+1305,positive,medium,no,no,,no,Chinese original,Chinese: return trip faster than expected (<5.5h incl. breaks),
+4025,negative,high,no,no,,no,,departure not punctual,
+193,positive,high,no,no,,no,,"everything good, thanks",
+1748,positive,high,no,no,,no,,very satisfied,
+2830,positive,medium,no,no,,no,,'Safety' praise plus good wishes,
+1823,positive,medium,no,no,,no,,'Okie',R4
+3350,positive,high,no,no,,no,,'Great service ever',
+1840,negative,medium,no,no,,no,,trip took too long,
+2692,positive,high,no,no,,no,,"friendly, nice, safe",
+1824,positive,high,no,no,,no,,'good',
+387,positive,medium,no,no,,no,,'It was fine',R4
+3174,positive,high,no,no,,no,,'good services',
+1557,positive,high,no,no,,no,,"good, fast, quiet drive",
+3786,,,no,yes,meaningless text,no,,"cut-off fragment ('stop'), no opinion",R6
+1808,negative,high,no,no,,no,,picks up passengers along the road,
+3661,negative,high,no,no,,no,,uncomfortable seat,
+95,positive,high,no,no,,no,,'Excellent service',
+1232,positive,high,no,no,,no,,everything worked perfectly,
+1871,positive,high,no,no,,no,,"very good service, friendly staff",
+1262,negative,high,no,no,,no,,'Not very happy',
+2999,negative,high,no,no,,no,,"high price, bad quality",
+1364,positive,high,no,no,,no,,smooth journey,
+2723,positive,high,no,no,,no,,'Very Good',
+1407,negative,high,no,no,,no,,left 30+ min late,
+965,positive,high,no,no,,no,,'Good van',
+214,negative,high,no,no,,no,,'it's dirty',
+3685,positive,medium,no,no,,no,,'Driver is funny' - friendly remark,
+2808,negative,high,no,no,,no,,very uncomfortable,
+1908,positive,high,no,no,,no,,good driver,
+1842,positive,high,no,no,,no,,'Great service!!!',
+4076,negative,high,no,no,,no,,car very old,
+2679,positive,high,no,no,,no,,outstanding driver,
+3586,positive,high,no,no,,no,,"fast, easy, recommended",
+3831,negative,high,no,no,,no,,"really bad service, staff make excuses",
+1019,positive,high,no,no,,no,,'Most excellent',
+3218,positive,high,no,no,,no,,very good operation,
+65,negative,low,no,no,,no,could be read as neutral advice,advice to allow plenty of time implies delays/slowness,indirect complaint
+194,positive,high,no,no,,no,,"everything good, thanks",
+3996,positive,high,no,no,,no,,"punctual, comfortable, great AC",
+2811,positive,high,no,no,,no,,friendly fun staff 😊,
+1443,positive,high,no,no,,no,,"friendly, welcoming driver",
+935,negative,high,no,no,,no,,no water on board,
+949,positive,high,no,no,,no,,'Always a pleasure' with hearts,
+142,positive,high,no,no,,no,,"perfect, professional, on time",
+975,positive,high,no,no,,no,,'very good',
+3193,positive,high,no,no,,no,,good and easy,
+3133,negative,high,no,no,,no,,"bad, unsafe driving",R1
+2897,positive,medium,no,no,,no,,'Everything works' (dated),
+1610,positive,high,no,no,,no,,"nice service, professional driver",
+2241,positive,medium,no,no,,no,,'All ok',R4
+2785,positive,high,no,no,,no,,'Great service',
+3267,positive,high,no,no,,no,,good comfortable trip,
+2487,positive,low,no,no,,no,ambiguous: praise vs. suggestion,seems to appreciate being contacted in advance,
+2955,negative,high,no,no,,no,,"too fast, unsafe",R1
+1427,positive,high,no,no,,no,,"very good service, thanks",
+3229,negative,high,no,no,,no,,"no seatbelts, sad face (safety)",R1
+2369,positive,high,no,no,,no,,"nice service, thanks",
+938,positive,medium,no,no,,no,,'Good enough',R4
+1284,positive,high,no,no,,no,,'very good/excellent',
+1936,positive,high,no,no,,no,,feels comfortable with company,
+308,neutral,medium,no,no,,no,,'I didn't travel' - no opinion on service,R5
+2924,positive,high,no,no,,no,,fast and efficient,
+1483,negative,high,no,no,,no,,"car too old and noisy, couldn't sleep",
+1554,positive,medium,no,no,,no,,😃 only,emoji
+149,positive,high,no,no,,no,,"great driver, recommend",
+662,positive,high,no,no,,no,,"clean car, good service",
+664,negative,high,no,no,,no,,car not on time,
+520,positive,high,no,no,,no,,nice speedy crossing,
+1951,negative,high,no,no,,no,,'Always late',
+582,negative,high,no,no,,no,,stupid staff and service,
+3986,,,no,yes,meaningless text,no,,cut-off fragment,R6
+3017,negative,high,no,no,,no,,seats swapped arbitrarily 👎,emoji
+581,positive,high,no,no,,no,French original,French 'pleasant trip',
+3286,positive,high,no,no,,no,,"nice service, good driver",
+43,positive,high,no,no,,no,,'Good service',
+2471,negative,high,no,no,,no,,'Really BAD!',
+512,positive,high,no,no,,no,,recommends the speedboat,
+1010,positive,high,no,no,,no,,nice and clean,
+532,positive,high,no,no,,no,,'Very good',
+2850,positive,high,no,no,,no,,'Good Bus',
+2866,negative,high,no,no,,no,,food is trash,
+4026,negative,high,no,no,,no,,staff impolite to customers,
+2602,positive,high,no,no,,no,,great driver and car,
+374,negative,high,no,no,,no,,shock absorber broken,
+1705,positive,high,no,no,,no,,great experience,
+1295,negative,high,no,no,,no,,company irresponsible,
+130,positive,high,no,no,,no,,'Really good',
+1089,positive,medium,no,no,,no,,'acceptable' in all categories ✌,R4
+1229,positive,high,no,no,,no,,good easy ride,
+2911,positive,high,no,no,,no,,steady safe driving,
+469,positive,high,no,no,,no,,'Excellent!',
+997,positive,high,no,no,,no,,'Best Service',
+17,positive,high,no,no,,no,,'Goods' = good (typo),
+3035,positive,high,no,no,,no,,likes travelling with this company,
+3077,negative,high,no,no,,no,,rude unfriendly customer service,
+3835,negative,high,no,no,,no,,"very bumpy, hard to sleep",
+916,positive,high,no,no,,no,,'All good',
+201,positive,high,no,no,,no,,"punctual, safe",
+3225,positive,high,no,no,,no,,"punctual, friendly driver",
+189,positive,high,no,no,,no,,smooth fast transport,
+259,positive,high,no,no,,no,,"great ride, thanks",
+1401,negative,high,no,no,,no,,driver on the phone/video call (safety),R1
+327,positive,high,no,no,,no,,"good service, friendly staff",
+594,positive,high,no,no,,no,,"perfect service, no issues",
+2769,negative,medium,no,no,,no,,"'a bit late' - problem report, no praise",
+1870,positive,medium,no,no,,no,,'OK' (Khmer script),R4
+1313,negative,high,no,no,,no,,"booked van, given bus instead",
+394,positive,high,no,no,,no,,thumbs up only,emoji
+3127,negative,medium,no,no,,no,,"seat a bit small - problem report, no praise",
+87,positive,high,no,no,,no,,pleasant drive,
+3537,negative,high,no,no,,no,,too packed,
+1832,positive,medium,no,no,,no,,'Decent. No complaints',R4
+889,negative,high,no,no,,no,,driver 'an assassin' - reckless driving,R1
+3161,positive,high,no,no,,no,,"good service, comfortable",
+4003,positive,high,no,no,,no,,very good service 👍,
+695,negative,high,no,no,,no,,staff attitudes unacceptable,
+3864,negative,high,no,no,,no,,'bad' 👎,emoji
+1860,negative,medium,no,no,,no,,"car a bit old - problem report, no praise",
+3970,negative,high,no,no,,no,,"rude driver, treats passengers like beggars",
+1490,positive,high,no,no,,no,,safe comfortable trip,
+1321,positive,high,no,no,,no,,"excellent, safe though fast driver",
+3767,positive,high,no,no,,no,,'Great travel',
+3761,positive,high,no,no,,no,,"safe trip, enjoyed, thanks",
+3288,negative,high,no,no,,no,,very bad experience,
+3700,positive,high,no,no,,no,,"good, friendly",
+2823,positive,high,no,no,,no,,very good experience,
+2848,positive,high,no,no,,no,,good night bus,
+3085,positive,high,no,no,,no,,'Good driver',
+893,positive,high,no,no,,no,,driver very careful,
+1083,negative,high,no,no,,no,,'So hot',
+1272,positive,high,no,no,,no,,"perfect, fantastic 👍",
+1829,neutral,high,no,no,,no,,greeting only,R5
+3565,positive,high,no,no,,no,,very good travel,
+2374,negative,high,no,no,,no,,driver behaved badly,
+2291,positive,medium,no,no,,no,,"'Correct' (adequate), no further comment",R4
+2014,positive,high,no,no,,no,,'It was good',
+1150,positive,high,no,no,,no,,'Safe travel',
+217,negative,high,no,no,,no,,"not punctual, cramped",
+535,positive,high,no,no,,no,,'good service',
+279,positive,high,no,no,,no,,great bus service,
+1939,negative,high,no,no,,no,,many roadside pickups and slow driving,
+1915,positive,high,no,no,,no,,'Good service' (typo),
+3206,negative,medium,no,no,,no,,reports driver reaching 130 km/h (speed safety),R1
+1755,negative,high,no,no,,no,,smoke smell from air-con,
+1740,negative,high,no,no,,no,,sleeper-bed belts all broken,
+3724,negative,high,no,no,,no,,"old car, no seatbelts",R1
+3740,negative,medium,no,no,,no,,missing/needed air-con,
+2363,positive,medium,no,no,,no,,'Speedy',
+316,negative,high,no,no,,no,,1h late,
+1342,positive,high,no,no,,no,,nice service and experience,
+2806,negative,high,no,no,,no,,advises choosing another company,
+2528,positive,high,no,no,,no,,'Well done',
+1778,positive,high,no,no,,no,,'Good services',
+72,positive,medium,no,no,,no,,boat 'a bit late' but generally alright,R1
+3200,negative,high,no,no,,no,,driver over speed limit,R1
+1022,positive,high,no,no,,no,,'good',
+1168,positive,high,no,no,,no,,very nice safe trip,
+3678,negative,high,no,no,,no,,very poor service,
+307,positive,high,no,no,,no,,the best driver,
+1710,positive,high,no,no,,no,,comfortable ride,
+1727,positive,high,no,no,,no,,'All good!',
+687,positive,high,no,no,,no,,"punctual, smooth",
+912,positive,high,no,no,,no,,'good',
+3087,positive,high,no,no,,no,,"very good, very nice",
+851,positive,high,no,no,,no,,'Smooth ride',
+3171,negative,high,no,no,,no,,departure 20 min late,
+3119,positive,high,no,no,,no,,'A good trip',
+237,positive,high,no,no,,no,,"excellent, recommended",
+1210,neutral,medium,yes,no,,no,,good trip but late departure - equal weight,R1
+2945,negative,high,no,no,,no,,air-con not cold,
+339,positive,high,no,no,,no,,very punctual,
+3023,positive,high,no,no,,no,,"excellent, no complaints",
+3186,negative,high,no,no,,no,,never again with this company,
+1324,negative,high,no,no,,no,,driver using phone while driving,R1
+1055,neutral,medium,no,no,,no,,'I didn't join' - no opinion,R5
+2596,positive,high,no,no,,no,,"great service, friendly driver",
+1270,positive,high,no,no,,no,,"punctual, efficient",
+1048,positive,high,no,no,,no,,'Nice service',
+2819,positive,high,no,no,,no,,"perfect, smooth",
+3365,negative,medium,no,no,,no,,on time but no seat belts (safety),R1
+2522,positive,medium,no,no,,no,,'Ok!',R4
+1567,positive,high,no,no,,no,,'comfortable',
+497,positive,high,no,no,,no,,"nice car, big seats",
+360,negative,high,no,no,,no,,seat too narrow,
+1650,neutral,medium,yes,no,,no,,fast trip but missed Wi-Fi - similar weight,R1
+3810,negative,medium,no,no,,no,,'messy/disorganised',
+3540,positive,high,no,no,,no,,'Excellent service',
+3026,neutral,medium,yes,no,,no,,good trip but no Wi-Fi - similar weight,R1
+932,positive,high,no,no,,no,,company very good,
+883,positive,high,no,no,,no,,pleasant comfortable trip,
+978,negative,high,no,no,,no,,driver very rude,
+1867,positive,high,no,no,,no,,very good driving,
+1717,positive,high,no,no,,no,,'good job',
+3247,negative,high,no,no,,no,,drives too fast,R1
+1879,negative,medium,no,no,,no,,mask wearing not enforced,
+1933,,,no,yes,meaningless text,no,,only a name,R6
+2139,positive,high,no,no,,no,,"great trip, no complaints",
+164,negative,high,no,no,,no,,seats very uncomfortable,
+1081,positive,medium,no,no,,no,,"'Good', nothing (more) to say",R4
+1605,positive,high,no,no,,no,,"nice, clean, safe",
+1954,negative,high,no,no,,no,,"not good, not safe",
+3211,negative,high,no,no,,no,,poor office service,
+1214,negative,high,no,no,,no,,"not clean, asks to improve",R7
+877,negative,high,no,no,,no,,stops constantly,
+969,positive,high,no,no,,no,,friendly driver,
+1651,positive,high,no,no,,no,,helpful with pickup,
+1054,neutral,medium,no,no,,no,,'I did not join' - no opinion,R5
+1955,negative,medium,no,no,,no,,rest-stop restaurant very expensive,
+1455,negative,high,no,no,,no,,departure 30 min late,
+1389,positive,high,no,no,,no,,clean and punctual,
+3324,negative,medium,no,no,,no,,"no Wi-Fi - problem report, no praise",
+829,positive,high,no,no,,no,,'good all',
+3198,,,no,yes,meaningless text,no,,only a name,R6
+3723,negative,high,no,no,,no,,almost 2 hours late,
+3129,negative,high,no,no,,no,,asks to fix the air-con,R7
+2215,positive,high,no,no,,no,,'Perfection',
+1388,neutral,medium,yes,no,,no,,'okay for me' plus request to be careful - similar weight,R7
+666,neutral,high,no,no,,no,,'Nothing',R5
+466,negative,medium,no,no,,no,,driver drives like F1 (reckless speed),R1
+1023,positive,high,no,no,,no,,'Great Van',
+2132,positive,high,no,no,,no,,smooth easy trip,
+560,positive,high,no,no,,no,,'Nice trip',
+3621,positive,high,no,no,,no,,"good bus, friendly staff",
+1972,positive,medium,no,no,,no,,"'good, acceptable'",R4
+288,positive,high,no,no,,no,,right on time,
+1018,positive,high,no,no,,no,,"great, nice driver",
+930,negative,high,no,no,,no,,'Bad',
+1646,positive,high,no,no,,no,,good VIP van,
+1246,positive,medium,no,no,,no,,"'just nice', smooth ride",R4
+2855,negative,high,no,no,,no,,drove too fast,R1
+1668,positive,high,no,no,,no,,'Excellent',
+2404,positive,high,no,no,,no,,'Good driver',
+3086,positive,high,no,no,,no,,'fantastic',
+2131,neutral,medium,yes,no,,no,,good but 1.5 hours late - equal weight,R1
+2994,positive,high,no,no,,no,,'Great Trip!',
+111,positive,high,no,no,,no,Spanish original,Spanish: comfortable and punctual,
+3182,negative,high,no,no,,no,,20 min late,
+1616,positive,high,no,no,,no,,very satisfied,
+3177,negative,high,no,no,,no,,'Poor service',
+2795,positive,high,no,no,,no,,'best service' (typo),
+977,negative,high,no,no,,no,,no seat belts 'dangerous'; locals picked up but not foreigners,R1-safety
+2092,neutral,medium,yes,no,,no,,would recommend and reuse vs request to stop overcharging foreigners,R1-balanced
+128,neutral,medium,yes,no,,no,,"enjoyable mostly, friendly driver vs breakdown 4 km before destination",R1-balanced
+2658,negative,high,no,no,,no,,"driver didn't know pickup point, waited in sun; refused mask",
+2185,neutral,medium,yes,no,,no,,frustrating bus-time confusion vs lovely trip afterwards,R1-balanced
+4060,positive,medium,no,no,,no,Khmer; suggestion inside happy review,thanks for good service; wish for extra onward transport service,R7
+4105,negative,high,no,no,,no,Khmer,"driver picks up ticketless people, ignores toilet requests",
+3531,positive,medium,no,no,,no,,"on time, nice trip; 'sportive' driving and little space",R1-minor
+2064,positive,medium,no,no,,no,,"okay trip, free meals :); only the driver gets annoyed easily",R1-minor
+3887,negative,high,no,no,,no,,"engine broke, ~1h late, bus overfilled",
+1698,positive,high,no,no,,no,,"go-to company, great service; no water this time",R1-minor
+62,negative,high,no,no,,no,,"'TERRIBLE SERVICE', direct bus arrived 75 min late",
+2883,negative,high,no,no,,no,,"switched van to big bus, 10h trip, 'really bad experience'",
+1946,neutral,medium,no,no,,no,,only says they won't take the return trip; no opinion,R5
+1872,negative,medium,no,no,,no,Khmer,asks to check bus technically and carry repair tools (implies breakdown),R7
+1061,negative,medium,no,no,,no,,'overall good' but driver drove too fast!,R1-safety
+3702,negative,high,no,no,,no,,"van in bad repair, many stops, slow, 'not VIP'",
+615,negative,medium,no,no,,no,,"on time but did not leave from pier as stated, moved by van",R1-major
+801,negative,high,no,no,,no,,"promised hotel pickup refused, very disappointed",
+2136,positive,medium,no,no,,no,,"'in general a good trip', only 30 min late",R1-minor
+976,negative,high,no,no,,no,Khmer,"AC not cold at all, asks to check",R7
+177,positive,high,no,no,,no,,"space 'a bit narrow'; fast, safe, efficient stops",R1-minor
+493,positive,medium,no,no,,no,,"always good, on time; slower this time due to traffic/pickups",R1-minor
+1130,positive,medium,no,no,,no,,"on time, realistic times; 'only thing' office hard to find",R1-minor
+3550,negative,high,no,no,,no,,"disappointed: 6 stops, detours, refused hotel drop-off",
+23,positive,medium,no,no,,no,,crowded boat but got there; weather transfer; crew did a good job,R1-minor
+1826,negative,high,no,no,,no,Khmer,"many stops to pick up passengers, very late",
+3790,positive,high,no,no,,no,,everything great except food,R1-minor
+2,positive,high,no,no,,no,,all went smoothly; small suggestion :),R1-minor
+543,negative,medium,no,no,,no,,"boat late, nearly missed connecting bus",
+627,positive,high,no,no,,no,,"'a bit late' but overall not bad, friendly staff",R1-minor
+49,negative,high,no,no,,no,,"night bus late, advertised boat didn't exist, had to wait",
+1976,positive,high,no,no,,no,,"punctual, safe, cheap, discount coupon :-)",
+1162,negative,medium,no,no,,no,,"wanted refund for unused ticket, not possible",
+1963,positive,medium,no,no,,no,,no WiFi as stated but overall good,R1-minor
+1961,neutral,medium,yes,no,,no,extends 1963 with second complaint,overall good vs no WiFi and different bus/seat than shown,R1-balanced
+3601,positive,high,no,no,,no,,"trip fine, super helpful with immigration, extra fee worth it",
+1238,negative,high,no,no,,no,,"old but comfortable bus vs horrible insulting operator, visa scam",R1-major
+118,neutral,medium,yes,no,,no,,"nice tidy bus, stops vs 40 min late",R1-balanced
+944,negative,medium,no,no,,no,,"own booking mistake, asks not to be charged",R7
+3208,positive,high,no,no,,no,Khmer,"easy booking, fast, one stop, quick arrival",
+3902,negative,high,no,no,,no,,"dangerous fast driver, sliding on mud road",R1-safety
+1340,negative,high,no,no,,no,,"booked seat not honored, 'shit bus company'",
+496,negative,high,no,no,,no,,advertised WiFi not available as usual,
+368,negative,high,no,no,,no,,"paid BookMeBus, no ticket, had to pay again",R2
+3927,negative,high,no,no,,no,Khmer,"bad smell, AC not working",
+2226,negative,medium,no,no,,no,,'good travel' vs emphatic complaint about remote drop-off,R1-major
+1200,positive,medium,no,no,,no,,"solid, punctual service; suggests more proactive English info",R1-minor
+3480,positive,high,no,no,,no,,everything good; 'maybe a little bit fast' but trusted,R1-minor
+3857,positive,medium,no,no,,no,,"everything fine, careful driver, early; sleeper freezing",R1-minor
+3836,positive,medium,no,no,,no,,overall very good; too many delivery stops,R1-minor
+281,negative,high,no,no,,no,,"no time change allowed, paid $9 extra",
+940,negative,high,no,no,,no,,"dangerous driver at 140 km/h, not recommended",R1-safety
+3444,positive,medium,no,no,,no,,'kind of fast at times' but overall excellent,R1-minor
+3827,negative,high,no,no,,no,,"no light in lower bed, too cold, no window",
+3266,negative,medium,no,no,,no,,"good trip, safe driver, but seatbelt not working (important)",R1-safety
+2087,negative,high,no,no,,no,,"drivers overcharged visa, picked up private passengers, 3h late",
+99,positive,high,no,no,,no,,"smooth ride, spacious, friendly driver",
+61,negative,high,no,no,,no,,reservation not received by ferry,
+2048,positive,high,no,no,,no,,"nice bus, comfortable; border 'a little confusing'",R1-minor
+1493,positive,high,no,no,,no,,great service; 'only problem' legroom haha,R1-minor
+1998,negative,high,no,no,,no,Khmer; guideline example,'it would be great if the atmosphere were better',indirect complaint
+3867,positive,high,no,no,,no,,"pleasant, spacious, safe, early; AC cold",R1-minor
+2922,neutral,medium,yes,no,,no,,detour for another passenger on rough road vs arrived on time,R1-balanced
+141,negative,low,no,no,,no,Japanese; '★1' refers to irrelevant categories,WiFi advertised but unusable 'disappointing'; seat mix-up; driving rough but accepted,
+648,neutral,medium,yes,no,,no,,"aggressive staff in Bangkok vs rest fine, help at border",R1-balanced
+1219,positive,high,no,no,,no,,"fine ride, comfortable, smooth immigration; little communication",R1-minor
+2216,positive,high,no,no,,no,,"early, lovely driver, free shuttle; beeping, slightly dated bus",R1-minor
+2470,negative,high,no,no,,no,,"'brutal experience', overbooked, waited 2h",
+1876,negative,medium,no,no,,no,Khmer,another passenger took booked seat; company not excused,R3
+2651,negative,medium,no,no,,no,,pleasant driver but dropped at wrong hotel,R1-major
+459,positive,high,no,no,,no,,"on time, courteous, comfortable, would do again",
+946,negative,high,no,no,,no,,"not taken to Kep as booked, very disappointed",
+470,negative,medium,no,no,,no,,"wrong map pin, little legroom, poor AC, no WiFi; free water",R1-major
+2220,positive,high,no,no,,no,,"ticket tip; good service, food, easy border, cheers",R1-minor
+349,neutral,medium,yes,no,,no,,"unhappy with schedule change, AC stop vs comfortable seats, skilled driver",R1-balanced
+4066,positive,medium,no,no,,no,,"overall good, helpful driver; AC too cold",R1-minor
+1839,negative,high,no,no,,no,,"sleeper cancelled, uncomfortable van, pointless stops",R1-major
+2899,negative,medium,no,no,,no,,on time but very hot van and driver should drive more safely,R1-safety
+4007,negative,medium,no,no,,no,,"comfortable, on time vs visa overcharge 'thieves' at border",R3
+3390,negative,high,no,no,,no,,forced to give up booked seat,
+843,negative,high,no,no,,no,,"3h late departure, driver roaming for passengers",
+1776,positive,high,no,no,,no,,"excellent, safe, number 1 choice",
+3277,negative,low,no,no,,no,safety override; writer still recommends,"recommends, but driver 'a little crazy'",R1-safety
+3529,negative,medium,no,no,,no,,"clean van, water vs driver too fast on flooded road",R1-safety
+3532,positive,high,no,no,,no,,"great, sympathetic driver; engine issue and legroom excused",R1-minor
+2503,positive,high,no,no,,no,,"amazing service, quick but safe, 10/10",
+2366,neutral,medium,yes,no,,no,,"fast vs many stops, seat a little uncomfortable",R1-balanced
+367,negative,high,no,no,,no,,"1.5h late, aggressive driving, avoid company",R1-safety
+831,positive,medium,no,no,,no,,polite wish for slower driving; overall good driving,R1-minor
+3416,positive,high,no,no,,no,Khmer,"responsible staff, friendly driver",
+3283,neutral,medium,yes,no,,no,sarcasm about overcrowding,easy and cheap vs overcrowded van ('nice and warm' ironic),R1-balanced
+1723,positive,high,no,no,,no,,"good drive, comfy beds, very helpful office staff",
+1163,negative,high,no,no,,no,,"seat changed after booking, 'I AM NOT HAPPY'",
+1901,negative,high,no,no,,no,,"bus cancelled without notice, noisy, no water",
+3423,neutral,medium,yes,no,,no,,"bus ok with storage vs narrow seats, 1h longer",R1-balanced
+1969,negative,medium,no,no,,no,,"late departure, pickups, arrived 2h late",
+603,neutral,medium,yes,no,,no,,long wait before departure vs smooth trip afterwards,R1-balanced
+2508,positive,high,no,no,,no,,"long but safe, good stops; SUV a little small but fair for price",R1-minor
+3415,negative,high,no,no,,no,,"late, wrong terminal, ignored toilet request",
+934,positive,high,no,no,,no,,'Everything is great',
+2029,positive,high,no,no,,no,,so comfortable :),
+2489,positive,high,no,no,,no,,"great, fast, efficient",
+249,positive,high,no,no,,no,,'Perfect',
+1656,positive,high,no,no,,no,,'Nice driving',
+1183,positive,high,no,no,,no,,"very good, thanks",
+2775,positive,high,no,no,,no,,comfortable to ride,
+595,negative,high,no,no,,no,,very unpunctual,
+3230,positive,high,no,no,,no,,very good company,
+475,positive,medium,no,no,,no,,'Totally okay',R4
+4,positive,medium,no,no,,no,,'Ok' with smiley,R4
+3106,positive,high,no,no,,no,,'Overall good',
+2971,positive,high,no,no,,no,,driver really kind,
+1257,negative,high,no,no,,no,,driver not friendly,
+3063,neutral,high,no,no,,no,,'nothing',R5
+1855,negative,high,no,no,,no,,timing not stable,
+682,positive,medium,no,no,,no,,'Ok',R4
+1775,positive,high,no,no,,no,,nice and fast,
+1436,negative,medium,no,no,,no,,"seat a little uncomfortable - problem report, no praise",
+1517,positive,high,no,no,,no,,'Perfect service',
+522,positive,high,no,no,,no,,"superb, very happy",
+1357,positive,high,no,no,,no,,'good service',
+2766,negative,low,no,no,,no,"Khmer typo, meaning uncertain",apparently 'got little sleep' (typo បាប for បាន),
+923,positive,high,no,no,,no,,very good service,
+3256,negative,high,no,no,,no,,very bad services,
+1271,negative,high,no,no,,no,,"overloaded luggage, noisy passengers - not excused",R3
+306,negative,high,no,no,,no,,many stops on the way,
+3162,negative,high,no,no,,no,,driver busy with phone (safety),R1
+1103,positive,high,no,no,,no,,'Hood (good) and very good',
+251,positive,high,no,no,,no,,"on time, smooth",
+2952,positive,high,no,no,,no,,"good driving, good price",
+2878,positive,high,no,no,,no,,recommended,
+1049,positive,medium,no,no,,no,,driver's driving 'fairly okay',R4
+1559,negative,medium,no,no,,no,,"no Wi-Fi - problem report, no praise",
+3956,positive,high,no,no,,no,,'Perfect !',
+1729,neutral,medium,yes,no,,no,,likes it but 30 min wait - similar weight,R1
+1333,negative,high,no,no,,no,,driving too fast,R1
+3903,negative,medium,no,no,,no,,fellow passengers noisy - not excused,R3
+1905,negative,high,no,no,,no,,'Not a good trip',
+2898,negative,high,no,no,,no,,driver not friendly,
+75,positive,high,no,no,,no,,left on time,
+3945,positive,high,no,no,,no,,good trip,
+2144,positive,high,no,no,,no,,"excellent, great service",
+2972,negative,high,no,no,,no,,"uncomfortable, no room",
+1732,negative,high,no,no,,no,,uncomfortable journey,
+1104,negative,high,no,no,,no,,'Not good',
+3802,negative,high,no,no,,no,,"too hot, AC not working",
+3877,positive,high,no,no,,no,,'All great',
+1894,positive,high,no,no,,no,,'Good',
+882,positive,medium,no,no,,no,,'All right',R4
+3044,positive,high,no,no,,no,,"good service, acceptable",
+2328,positive,high,no,no,,no,,great company,
+653,negative,high,no,no,,no,,"worst company, avoid",
+1482,positive,high,no,no,,no,,highly recommended,
+633,positive,high,no,no,,no,,aircon works well,
+1231,positive,high,no,no,,no,,"good, happy trip",
+3840,negative,high,no,no,,no,,toilet dirty,
+2314,positive,high,no,no,,no,,'very nice',
+2809,negative,high,no,no,,no,,'Run away' - warning off,
+157,positive,high,no,no,,no,,"pleasant drive, good driver",
+2969,negative,high,no,no,,no,,AC not cool,
+2993,positive,high,no,no,,no,,everything was great,
+1797,positive,high,no,no,,no,,'Nice',
+1845,negative,medium,no,no,,no,,"trip a bit slow/late - problem report, no praise",
+841,negative,high,no,no,,no,,"lots of overtaking, loose car, weak AC",R1
+2061,negative,high,no,no,,no,,toilet dirty,
+503,positive,high,no,no,,no,,everything good overall,
+3735,positive,high,no,no,,no,,"good bus, professional driver",
+383,positive,high,no,no,,no,,everything ran properly,
+2851,positive,medium,no,no,,no,,thanks for the services,
+2018,positive,high,no,no,,no,,keep up the good service,
+937,neutral,high,no,no,,no,,'មិនមានទេ' (nothing),R5
+3768,positive,high,no,no,,no,,'Good Travel',
+3272,positive,high,no,no,,no,,good service 👍👌,
+3467,positive,high,no,no,,no,,'Good trip!',
+2949,neutral,high,no,no,,no,,'No comment',R5
+670,positive,high,no,no,,no,French original,"French: perfect, booking ok, no problem",
+257,positive,high,no,no,,no,,'Good trip',
+2831,negative,high,no,no,,no,,no luggage space,
+3627,positive,high,no,no,,no,,'Good service',
+903,positive,medium,no,no,,no,,'not bad',R4
+1419,negative,high,no,no,,no,,air-con didn't work,
+1211,positive,high,no,no,,no,,'Good travel',
+2987,negative,high,no,no,,no,,long wait,
+1088,negative,high,no,no,,no,,'Driver crazy' - reckless driving,R1
+2722,positive,high,no,no,,no,,"excellent, recommended",
+163,positive,high,no,no,,no,,"better price and service, recommended",
+3517,positive,high,no,no,,no,,'Perfect.',
+3681,negative,high,no,no,,no,,'not recommended',
+2667,positive,high,no,no,,no,,very good driver and service,
+1402,positive,high,no,no,,no,,'excellent',
+2802,negative,medium,no,no,,no,,"drove a bit too fast (speed), no praise",R1
+1853,neutral,high,yes,no,,no,Khmer; guideline example,good driving and timing vs overpriced food at stop 👎,R1-balanced
+3487,negative,high,no,no,,no,,"never again, driver too fast yet 8h trip, 'an impudence'",R1-safety
+397,negative,high,no,no,,no,,"sarcastic '4x4 action', next time bus, 'slow down fella'",sarcasm
+906,negative,high,no,no,,no,,good new car but driver constantly on phone while driving,R1-safety
+200,positive,high,no,no,,no,,"best and safest drivers, punctual, perfect",
+747,negative,high,no,no,,no,,"company error, staff yelled, no apology",
+1948,positive,high,no,no,,no,,"left late but arrived on time, very comfortable",R1-minor
+1484,positive,medium,no,no,,no,,safe uneventful ride appreciated; wish passengers wore masks,R1-minor
+4099,negative,high,no,no,,no,,"uninformed schedule change, unclear pickup, driver nearly killed us",R1-safety
+572,neutral,medium,yes,no,,no,,"late, overcrowded return vs 'otherwise good and very fast'",R1-balanced
+3371,positive,medium,no,no,,no,,trip okay; paid $2 for faster highway route,
+792,neutral,medium,yes,no,,no,,"nice, punctual, spacious vs very rude driver",R1-balanced
+240,negative,high,no,no,,no,,"broken door 'death trap', poor AC, late, NEVER AGAIN",R1-safety
+1158,positive,high,no,no,,no,,very smooth; 'a bit confusing' at border,R1-minor
+1220,neutral,medium,yes,no,,no,Spanish,"30 min late, WiFi broken vs old but comfortable bus, visa help",R1-balanced
+2442,positive,high,no,no,,no,,prompt as advertised; speed normal for region,R1-minor
+2524,positive,high,no,no,,no,,"driver waiting, good communication, comfortable clean car",
+2149,positive,high,no,no,,no,,"very helpful staff at border, food & drink",
+1940,positive,medium,no,no,,no,,'awesome'; pickup limited to listed hotels (advice),R1-minor
+1015,negative,high,no,no,,no,,"punctual but durian smell made girlfriend vomit, no water",R1-major
+3156,negative,high,no,no,,no,,"comfortable clean van but idiot driver, 'Dangerous!'",R1-safety
+1175,negative,high,no,no,,no,,"2h late without notice, angry man took passports; 'okay other than that'",R1-major
+2058,neutral,low,no,no,,no,unclear in-joke,"cryptic joke ('surreal trip', fake medal); no clear opinion",
+3393,neutral,medium,yes,no,,no,,driven to wrong location vs very nice people who fixed it,R1-balanced
+4027,neutral,medium,yes,no,,no,,"on time vs wishes for WiFi, reclining seats (implied discomfort)",R1-balanced
+1072,positive,high,no,no,,no,,very nice trip; driver 'own way' but overall safe,R1-minor
+2043,negative,high,no,no,,no,,"driver video-chatting while driving, cargo stops, no toilet stops",R1-safety
+719,negative,high,no,no,,no,,"not enough info, had to rent taxi boat",
+1980,negative,high,no,no,,no,,"unhygienic, many stops, rude staff, AC out",
+2607,negative,high,no,no,,no,,"weak AC, no stops, dirty toilet stop",
+607,negative,high,no,no,,no,,"'very bad trip', no place on boat",
+1471,neutral,medium,yes,no,,no,,"breakdown with 1h delay vs 'apart from this, good experience'",R1-balanced
+1121,neutral,medium,no,no,,no,,road a disgrace; driving 'fast but not crazy',R3
+2187,negative,high,no,no,,no,,"breakdown, AC broken, 4h late, insane driving",R1-safety
+2394,negative,high,no,no,,no,,"not VIP nor express, too expensive",
+616,neutral,medium,yes,no,,no,,"unclear pier info, extra tuk-tuk vs 'finally good trip'",R1-balanced
+2152,negative,high,no,no,,no,,"1h late and overpriced vs station, 'bad move'",
+1527,negative,medium,no,no,,no,,good for price but not relaxing; loud passenger and noisy drivers,R1-major
+4085,negative,high,no,no,,no,,"noisy stops, booked seat replaced by tiny one",
+2518,positive,medium,no,no,,no,,good driver; only thing poor English,R1-minor
+2375,negative,high,no,no,,no,,"~20 stops, overcrowded, people on floor",
+3542,negative,medium,no,no,,no,,"bald tyre concern, no AC 'stinker', luggage in aisle; 'pretty average'",R1-major
+3313,positive,medium,no,no,,no,,"good pickup, fast ride; AC way too cold",R1-minor
+4071,neutral,low,no,no,,no,,only describes 7-seat minivan 'like a taxi',R5
+3617,positive,high,no,no,,no,,"very nice bus, helpful border service, no extra charges",
+3539,positive,high,no,no,,no,,"felt safer, good time, accommodating driver, free water",
+2959,negative,high,no,no,,no,Khmer,"hard to sit, too cramped",
+2069,negative,high,no,no,,no,,'free' tuk-tuk driver demanded money,
+866,negative,high,no,no,,no,,"speeding 120 km/h, broken seatbelts, 'overall poor'",R1-safety
+246,positive,high,no,no,,no,,"20 min late, small legroom but good ride, recommend",R1-minor
+2578,negative,high,no,no,,no,,"speeding, near misses, 'dangerous trip'",R1-safety
+626,negative,high,no,no,,no,,"wrong pier 3 times, promised pickup never came, refund?",
+3459,negative,high,no,no,,no,,"crazy driving, 10 stops, overbooked, broken seat belt",R1-safety
+3212,positive,high,no,no,,no,,"pickup change 'a little bit annoying'; rest good, early",R1-minor
+416,neutral,medium,yes,no,,no,,good driver and trip vs no luggage room (detailed suggestion),R1-balanced
+1380,neutral,medium,yes,no,,no,,"on time, safe vs mosquitoes, cramped legs",R1-balanced
+3025,negative,medium,no,no,,no,,"quick, comfortable but very fast, risky overtaking",R1-safety
+1188,positive,high,no,no,,no,,"few stops, good AC, will use again",
+2386,positive,high,no,no,,no,,"very good service; fast driving normal, 'judgement totally positive'",R1-minor
+3811,negative,high,no,no,,no,,"bed clean but forced to share bed with stranger, drivers laughed, 'not again'",R1-major
+2646,positive,high,no,no,,no,,"old but well-maintained car, professional, safe",
+2203,positive,high,no,no,,no,,"'a bit of confusion' with pickup, otherwise smooth",R1-minor
+869,negative,low,no,no,,no,safety override; writer still positive overall,'overall great' but driver drove irrationally and missed drop-off,R1-safety
+1263,positive,medium,no,no,,no,,"great van; driver took a couple risks but felt ok, would take again",R1-minor
+2324,negative,high,no,no,,no,,"departed 26 min late, warns of losing customers",
+3040,negative,high,no,no,,no,,bus 30 min late,
+2876,negative,medium,no,no,,no,Khmer,"fast, friendly driver vs worst AC, fans in a 'VIP' bus",R1-major
+333,positive,high,no,no,,no,,"very impressed, will use again; legroom 'a little cramped'",R1-minor
+3554,negative,high,no,no,,no,,"'Fast & Furious' driver, bald tyres; return better",R1-safety
+3227,negative,high,no,no,,no,Khmer,"seat assignment wrong, not the seat booked in app",
+2023,positive,high,no,no,,no,,"punctual, friendly, luggage care; window seat 'a little bit narrow'",R1-minor
+4068,negative,high,no,no,,no,,"late start, uncomfortable seats, loud music",
+868,negative,high,no,no,,no,,"cramped, unclear info, risky overtaking",R1-safety
+1165,positive,high,no,no,,no,,"great experience, comfy, visa help, recommended",
+2676,negative,high,no,no,,no,,"very dangerous driver, 3 near misses",R1-safety
+999,negative,high,no,no,,no,,"terrifying, overtaking while on phone",R1-safety
+1091,neutral,medium,yes,no,,no,,driver and staff ok vs tiny seats for 15 passengers,R1-balanced
+3828,negative,high,no,no,,no,,"rescheduled without notice, replaced by regular car",
+3015,negative,high,no,no,,no,,"dangerously fast driver, 'risk death with every trip'",R1-safety
+628,neutral,high,no,no,,no,,boarding point information only,R5
+1899,negative,high,no,no,,no,,booked pickup never showed up,
+3183,positive,medium,no,no,,no,code-switched English-Khmer,good but 'a bit narrow',R1-minor
+1922,neutral,medium,yes,no,,no,,"nice comfortable bus, safe driver vs constant rude horn, couldn't rest",R1-balanced
+718,negative,medium,no,no,,no,resigned complaint,ferry 45 min late; resigned to it,
+2118,positive,medium,no,no,,no,,"gave 4 out of 5; booked seat given away, rest smooth",R8
+3116,neutral,medium,yes,no,,no,,"everything fine vs VERY COLD cabin, got sick, please fix",R1-balanced
+2046,negative,high,no,no,,no,,"disgusting seats, stinking toilet",
+608,negative,high,no,no,,no,,"boat doesn't stop where needed, had to buy new tickets",
+1497,neutral,medium,no,no,,no,,"breakdown, picked up by next bus, 'couldn't be helped'",R3
+3915,negative,high,no,no,,no,,"very disappointed, app showed wrong schedule",
+3105,negative,high,no,no,,no,,van good but driver dangerously fast,R1-safety
+1607,positive,high,no,no,,no,,"very comfortable, safe, great; legroom 'but fine'",R1-minor
+402,negative,high,no,no,,no,,"crazy fast on construction road, unsafe",R1-safety
+3613,positive,high,no,no,,no,,"very comfortable, clear guidance; 'only wish' visa info upfront",R1-minor
+2813,negative,medium,no,no,,no,,"bus too small for Westerners, suggests luggage on roof",R7
+897,negative,high,no,no,,no,Khmer,"driver on phone constantly, not paying attention",R1-safety
+2444,negative,high,no,no,,no,,"waited one hour, no departure",
+3139,negative,high,no,no,,no,,"impolite driver, doesn't care about guests",
+2173,positive,medium,no,no,,no,,generally excellent; disappointing drop-off pseudo-scam,R1-minor
+256,neutral,medium,yes,no,,no,,"ok, on time, no stop vs no water, no curtains",R1-balanced
+388,neutral,medium,yes,no,,no,,"nice office and staff, on time vs trip took longer than expected",R1-balanced
+2380,negative,high,no,no,,no,,"driver on phone, no seat belt, 140 km/h",R1-safety
+404,positive,medium,no,no,,no,,BookMeBus is first choice; can't review this trip,
+3520,negative,medium,no,no,,no,,safe journey vs horrendous stops and music that 'drove us insane',R1-major
+2447,negative,high,no,no,,no,,staff didn't even try to communicate,
+3929,negative,high,no,no,,no,Khmer,AC not cold and prices keep rising,
+1277,positive,high,no,no,,no,,"never disappointed, helpful staff",
+3558,positive,medium,no,no,,no,,"clean new shuttle, worth the money, would use again; 'a little too fast at times'",R1-minor
+1140,negative,high,no,no,,no,,"'don't go with this bus', waited, foreigners dropped far away",
+1654,negative,high,no,no,,no,,"15 min late, trip 1h longer than scheduled",
+2208,positive,medium,no,no,,no,,"enjoyed, inspector helped; no vegetarian meal",R1-minor
+3360,positive,high,no,no,,no,,"professional driver, smooth, fast",
+2088,negative,high,no,no,,no,,"12h trip took almost 20h, 'a nightmare'",
+504,positive,high,no,no,,no,,app saved the day when everything was booked out,
+1624,negative,high,no,no,,no,,"'very bad', seat changed, no responsibility taken",
+3384,negative,medium,no,no,,no,,"driver service good but drives so fast, car not comfortable",R1-safety
+480,neutral,medium,yes,no,,no,,"hot bus, weak AC, smell vs no complaints on punctuality/safety",R1-balanced
+742,positive,high,no,no,,no,,perfectly fine; bumpy only because of sea,R3
+1519,positive,medium,no,no,,no,,"good, organised, safe; 'only thing' AC",R1-minor
+2984,positive,high,no,no,,no,,"nearly on time, fast without rashness, early, will travel again 👍",
+303,negative,high,no,no,,no,,"crazy driver texting/calling, broken seatbelt, cracked windshield",R1-safety
+2202,positive,medium,no,no,,no,,very nice comfortable bus; border walk disappointing but excused as universal,R1-minor
+1882,negative,high,no,no,,no,Khmer,"strong perfume, eating, loud passengers, very carsick",
+110,positive,high,no,no,,no,,"always takes PO van, safe; wishes for more trips :)",
+1466,negative,high,no,no,,no,,"forced to buy mask, inconsistent rule",
+445,negative,low,no,no,,no,safety override; writer mildly positive,'better than average' but 'typical aggressive driving'; only 30 min late,R1-safety
+3912,positive,high,no,no,,no,,"really nice bus, pleasant; 20 min late",R1-minor
+1984,positive,high,no,no,,no,,everything fine except bus 'a bit old',R1-minor
+2279,positive,high,no,no,,no,,"smooth, easy border, food, happy, would use again",
+591,positive,high,no,no,,no,,"outbound 'a bit late', fast return, would book again",R1-minor
+1600,negative,high,no,no,,no,,"late pickup, cramped, poor AC; excellent driver but will look elsewhere",R1-major
+2732,negative,medium,no,no,,no,,"on time vs two seat belts not working, poor English",R1-safety
+3719,positive,medium,no,no,,no,,"hard seats, late at border, but 'in the end good', thanks",R1-minor
+3754,negative,medium,no,no,,no,,"accident during ride, long wait, late arrival",R1-safety
+3100,positive,high,no,no,,no,Khmer with English greeting,"satisfied with service and driver, will keep supporting ☺️",
+669,negative,high,no,no,,no,Khmer,"not a VIP minivan as advertised, full of bags",
+2123,positive,high,no,no,,no,,"comfortable, free snacks and meal; visa tip",
+1128,positive,medium,no,no,,no,,"comfortable, clean, left 'a little bit later', arrived on time",R1-minor
+777,positive,medium,no,no,,no,,"comfy, on time, would book again; no English info",R1-minor
+671,positive,medium,no,no,,no,,"half hour late but comfortable, safe driver, hotel drop-off",R1-minor
+2085,negative,high,no,no,,no,,"would not travel again, dirty, nightmare trip",
+3294,positive,high,no,no,,no,,"overall good, many stops but early, would do again",R1-minor
+2839,negative,high,no,no,,no,,"far too fast, cargo, won't use again",R1-safety
+3461,negative,high,no,no,,no,,"repeated breakdowns, made to hitchhike, no refund",
+3254,negative,high,no,no,,no,,"tiny van, painful 6h, driver not careful",
+3671,negative,high,no,no,,no,Khmer,"very old noisy bus, dust inside, AC broken",
+222,negative,medium,no,no,,no,,"old hot bus, no AC, driving 'not safe'; on time, clean waiting room",R1-safety
+1611,positive,high,no,no,,no,,"excellent driver, early, friendly, clean; seats narrow but comfortable",
+3140,negative,high,no,no,,no,Khmer,"harsh braking caused sickness, overpriced food stop",
+3686,positive,medium,no,no,,no,,good driver; call center 'a bit impolite',R1-minor
+1349,positive,medium,no,no,,no,,everything great; back seat small for 4 (suggestion),R1-minor
+3082,positive,high,no,no,,no,,"one stop, very smooth ride",
+358,positive,high,no,no,,no,,"bus problem solved by transfer, arrived on time, thank you",
+2305,negative,high,no,no,,no,,"driver and car very bad, won't ride again",
+690,negative,medium,no,no,,no,,"unfriendly staff, QR codes don't work, no info; clean ferry",R1-major
+1007,neutral,medium,yes,no,,no,,"fine, accurate timings vs confusing departure-time call",R1-balanced
+2151,positive,high,no,no,,no,,"four trips without incident, professional, on time",
+2902,negative,high,no,no,,no,,"bumpy, no legroom, almost 1h late",
+1135,neutral,medium,yes,no,,no,,45 min late departure vs 'else a good trip',R1-balanced
+3896,positive,high,no,no,,no,,"careful driver, felt safe, faster than advertised",
+27,neutral,medium,yes,no,,no,,chaotic terminal vs 'it all works out in the end',R1-balanced
+2204,neutral,medium,yes,no,,no,,"good, fast, reliable vs card fee 'a bit of a scam', far pickup",R1-balanced
+2158,negative,high,no,no,,no,,"'overall OK' but visa overcharge, will not book again",R1-major
+464,neutral,medium,yes,no,,no,,"driver okay, clean van vs no WiFi",R1-balanced
+2105,negative,high,no,no,,no,,"overbooked, sat on stool, fake free tuk-tuk",
+1801,negative,high,no,no,,no,,"poor AC, 1.5h late, many stops, mosquitoes; roomy seat",R1-major
+2740,neutral,medium,yes,no,,no,,overall went well vs driver couldn't find hotel,R1-balanced
+4013,negative,medium,no,no,,no,,'good but' too cold and arrival times never correct,R1-major
+355,positive,high,no,no,,no,,"cheap, easy, on time; rough roads not company's fault",R3
+2423,negative,high,no,no,,no,,"not recommended, 12 stops, old dirty van",
+876,negative,high,no,no,,no,,"driver disappeared 45 min, vegetables fell on passengers",
+2563,neutral,medium,yes,no,,no,,lovely prompt driver vs unclear $12 toll fee,R1-balanced
+996,positive,high,no,no,,no,,"great trip, careful driver, relaxing",
+3817,negative,high,no,no,,no,,"spacious bus but driver on phone 'very dangerous', 2h late",R1-safety
+4004,negative,high,no,no,,no,Khmer,"many stops, driver drives forcefully",
+2379,neutral,medium,yes,no,,no,,"better driver vs bus overcrowded, squashed",R1-balanced
+1655,negative,high,no,no,,no,,driver refused to adjust AC,
+1851,negative,high,no,no,,no,Khmer,seafood on seats dripped on bag and clothes,
+2304,negative,medium,no,no,,no,,"okay and on time but driver texting, 'can become a danger'",R1-safety
+2865,neutral,low,no,no,,no,,"friendly staff, early arrival, but rates only '3 ⭐'",R8
+2436,negative,high,no,no,,no,,"old dirty bus, 'driving like hell'",R1-safety
+3569,neutral,medium,yes,no,,no,,"helpful inspectors, WiFi, food vs 2h late",R1-balanced
+887,positive,high,no,no,,no,,"safe ride, nice vehicle, early",
+400,neutral,medium,yes,no,,no,,'generally ok' vs much later arrival; suggests realistic schedule,R1-balanced
+3804,neutral,high,no,no,,no,Khmer,drop-off instruction to driver,R5
+2407,positive,high,no,no,,no,,"useful, efficient, 'only positive'",
+359,positive,high,no,no,,no,,one of the better experiences; roads not company's fault,R3
+2201,positive,medium,no,no,,no,,love the service; 'just disappointed' about visa scam stop,R1-minor
+1290,negative,high,no,no,,no,,"driver very slow, arrived late",
+2209,neutral,medium,yes,no,,no,,"AC OK, snacks vs not comfortable, dropped at scam agency",R1-balanced
+3640,negative,high,no,no,,no,,"led onto wrong bus, paid taxi",
+785,neutral,medium,yes,no,,no,,"good, comfortable clean bus vs arrogant rude driver",R1-balanced
+2424,positive,high,no,no,,no,,pretty nice ride; rough roads handled well,R3
+3261,positive,high,no,no,,no,,"overall good, thank you 👍🏾",
+3185,negative,high,no,no,,no,Khmer,fast driving made writer carsick 3 times,
+672,positive,medium,no,no,,no,,"on time, early; seat 8 good legroom but in the way",R1-minor
+3744,negative,high,no,no,,no,,"6h not 3h, no seats, hot, no recommendation",
+4010,negative,medium,no,no,,no,,'trip ok' but 'not happy at all' with no lunch until 2pm,R1-major
+1900,positive,medium,no,no,,no,,"safe, comfortable, careful; horn too much",R1-minor
+3575,negative,medium,no,no,,no,,company 'so confusing' it can't be described,
+216,negative,medium,no,no,,no,,'everything fine' but 1.5h late from 15 stops and slow driving,R1-major
+1038,neutral,medium,yes,no,,no,,everything good vs female staff 'so rude!',R1-balanced
+1728,negative,medium,no,no,,no,,"cooling system broke, water top-ups, no AC, 'anyone checking the cars?'",R1-major
+1952,negative,high,no,no,,no,Khmer,"restaurant stop expensive, food not tasty",
+21,negative,high,no,no,,no,,"overcrowded boat, confirmed pickup never came, 'totally unacceptable'",
+1617,positive,high,no,no,,no,,'slight problem' with booking resolved smoothly,R1-minor
+2083,positive,medium,no,no,,no,,"fine, okay bus, meals, friendly crew :) vs 1h unannounced delay",R1-minor
+3934,neutral,medium,yes,no,,no,,"good drive, nearly on time vs hard to find bus, unhelpful staff",R1-balanced
+59,positive,medium,no,no,,no,,"on time, comfortable seats; 'a bit overcrowded'",R1-minor
+870,negative,medium,no,no,,no,,"unhelpful station staff, little room; drive only 'okay'",R1-major
+1619,neutral,medium,yes,no,,no,,"most comfortable van, highly recommended vs always ~1h late from pickups",R1-balanced
+3345,neutral,medium,yes,no,,no,,"good service vs AC broken, very hot whole way",R1-balanced
+225,positive,high,no,no,,no,,"newer van, good experience, recommend; AC preference",R1-minor
+2036,positive,medium,no,no,,no,,"comfortable seats, cool; wishes seat selection for next-day bookings",R7
+2951,positive,high,no,no,,no,,"all ok, few minutes late excused by roadworks; good service",R1-minor
+1659,neutral,medium,yes,no,,no,,"'actually okay', bus and driver fine vs no legroom, no stop info",R1-balanced
+3949,negative,high,no,no,,no,,booked 10-seat van but got minibus,
+3914,positive,medium,no,no,,no,,"great punctuality and safety; two notes (music, departure address)",R1-minor
+2359,positive,high,no,no,,no,,"very enjoyable, great driving, recommend; stops annoying, AC fix",R1-minor
+332,positive,high,no,no,,no,,"great experience; delay due to traffic, driver praised",R3
+2045,negative,high,no,no,,no,,"worse food, no hot water, denied water, 15h trip",
+418,positive,high,no,no,,no,,"excellent driver, courteous staff; delay due to bad highway",R3
+1008,negative,high,no,no,,no,,"forced off at Kampot instead of Kep, 'horrible experience'",
+3395,negative,high,no,no,,no,,"bus left 9pm instead of booked 3:30pm, 'cheated'",
+3584,positive,high,no,no,,no,,"efficient, one bus, quick border, comfortable",
+3188,negative,high,no,no,,no,Khmer,"bus full of biting ants, no comfort",
+1967,negative,medium,no,no,,no,,"bright lights at stops, unhelpful unfriendly staff; 'cheaper so it's fair'",R1-major
+4034,negative,medium,no,no,,no,,"aggressive driving 'not for the faint hearted'; on time, free water",R1-safety
+4069,negative,medium,no,no,,no,,"night bus arrived 2h early, lost sleep",
+2099,negative,high,no,no,,no,,"expensive, visa scam, tourist left behind, wrong drop-off",
+3711,neutral,medium,yes,no,,no,,'ok company' vs old bus and unrealistic 3.5h schedule (all companies),R1-balanced
+3906,negative,high,no,no,,no,,"booked seat 10, got seat 28",
+3341,negative,medium,no,no,,no,,"cancelled bus, late departure, squashed seat; arrived early",R1-major
+1843,negative,medium,no,no,,no,,'mostly fine' but extremely uncomfortable whole time due to cargo,R1-major
+1446,positive,medium,no,no,,no,,"on time, longer than expected, generally fine, recommend",R1-minor
+4054,neutral,medium,yes,no,,no,,"everything went well vs wrong pickup location, nearly missed bus",R1-balanced
+2392,positive,high,no,no,,no,,"good driving, lovely bus; delay due to road repairs",R3
+1848,positive,medium,no,no,,no,,"very good, very comfortable; AC too strong",R1-minor
+3859,negative,high,no,no,,no,,"50 min late, no apology",
+3741,negative,medium,no,no,,no,,staff shouted at writer; driver good,R1-major
+2273,neutral,medium,yes,no,,no,,"overall good, on time vs awful-smelling toilet",R1-balanced
+2849,positive,medium,no,no,,no,,friendly helpful drivers; one unfriendly border staff,R1-minor
+815,negative,high,no,no,,no,,"attendant left them at border, 'disgrace'",
+789,positive,high,no,no,,no,,"excellent driver, comfortable, worth it, recommended",
+1613,negative,medium,no,no,,no,,comfortable van but bugs in seat caused itching,R1-major
+3920,negative,medium,no,no,,no,,"40 min unnecessary delay, loud music; otherwise 'ok'",R1-major
+437,neutral,medium,yes,no,,no,,"okay, on time vs horrible station toilet",R1-balanced
+2786,positive,high,no,no,,no,,"pretty good, apologetic helpful staff, careful driver; 30 min late",R1-minor
+1451,neutral,medium,yes,no,,no,,"all good vs late departure, no temperature check",R1-balanced
+2988,positive,high,no,no,,no,,"great service; fast overtaking but experienced, no close calls",
+1299,positive,medium,no,no,,no,,"on time, relatively comfy, 'did the job'",
+3065,positive,high,no,no,,no,,"fast, early, good AC; loud passengers 'normal'",R3
+2694,neutral,medium,yes,no,,no,,driver damaged $40 shoe rack vs otherwise smooth move,R1-balanced
+1910,negative,medium,no,no,,no,Khmer,requests pillows and water distribution,R7
+1768,neutral,medium,yes,no,,no,,"no socket or internet vs comfortable seats, nice bus",R1-balanced
+2854,positive,high,no,no,,no,,"super friendly, 2h delay recovered, 'all good!'",R1-minor
+2472,negative,high,no,no,,no,,"'very bad experience', no ticket, wrong seats",
+2205,neutral,medium,yes,no,,no,,very good food vs ~30 min late departure,R1-balanced
+1435,positive,high,no,no,,no,,"best company, safe, clean, on time; pickups not company's fault",R3
+2254,positive,high,no,no,,no,,"enjoyable, guided at border; 'only minor complaint' toilet smell",R1-minor
+3038,negative,high,no,no,,no,,trip took 9h instead of 6 twice 🙄,
+1323,neutral,low,yes,no,,no,ambiguous phrasing about driver,"clean new buses, seats ok vs driver 'not careful' but not aggressive",R1-balanced
+1156,neutral,medium,yes,no,,no,,good driver vs 'extra free steam' (bus too hot),sarcasm
+2381,negative,high,no,no,,no,,"no room, rattling door, dangerous driving, many stops",R1-safety
+3557,positive,high,no,no,,no,,"slightly late, on time arrival, immaculately clean",R1-minor
+1931,neutral,high,no,no,,no,,tip that station is far from center,R5
+3484,neutral,medium,yes,no,,no,,"felt safe, AC vs no legroom, no water/WiFi; 'fairly average'",R1-balanced
+498,positive,high,no,no,,no,,"fast but not reckless, good van with seatbelts",
+3021,positive,high,no,no,,no,,"very pleasant, safe, on time",
+3310,negative,medium,no,no,,no,,assigned seat differed from email seat,
+430,positive,medium,no,no,,no,,"modern, clean, comfortable; road-works delay; WiFi not working",R1-minor
+2072,positive,medium,no,no,,no,,"30 min late but cautious driver, approachable inspector, safe",R1-minor
+3972,negative,high,no,no,,no,Khmer,"dirty, smelly, dusty, very old bus",
+1761,positive,medium,no,no,,no,,"on time, good ride; no WiFi 'a bit of a turn down'",R1-minor
+2284,neutral,medium,yes,no,,no,,"very tight, overfilled vs drive went well, on time",R1-balanced
+3409,negative,high,no,no,,no,,"breakdown, dirty replacement, full price charged",
+1459,negative,medium,no,no,,no,,"booked time didn't exist, no distancing",
+3046,negative,high,no,no,,no,,"'don't book', bus cancelled on arrival",
+2218,negative,high,no,no,,no,,"paid VIP express, got slow local bus",
+1353,positive,high,no,no,,no,,"very smooth, recommend; van not big",R1-minor
+4046,negative,high,no,no,,no,Khmer,"old, not very safe, poor hygiene",
+1032,neutral,medium,yes,no,,no,,overall good vs surprised no drinking water given,R1-balanced
+2418,positive,high,no,no,,no,,"good experience, excellent fast but safe driver, clean",
+35,neutral,medium,yes,no,,no,,ferry very good vs BookMeBus support very poor,R2
+1549,negative,medium,no,no,,no,,"seats too tight, 1h late waiting at airport (others' fault)",R3
+90,negative,medium,no,no,,no,,"2h late, misleading explanations; rough sea excused but no info",R3
+3392,negative,medium,no,no,,no,,"no AC, reserved seat not given; excellent driver",R1-major
+3458,neutral,medium,yes,no,,no,,"prompt, newer vans vs roaches, boxes, overfull 'chaotic'",R1-balanced
+726,neutral,low,yes,no,,no,,mostly instructions; bus on time vs ferry late,R1-balanced
+1107,neutral,high,no,no,,no,guideline example,"'worst trip' due to road, 'bus was ok'",R3
+1674,positive,high,no,no,,no,,"great, quick; snoring passenger irritating; '4 stars'",R8
+2533,negative,high,no,no,,no,,driver asked $15 to stop at ATM,
+1657,neutral,medium,yes,no,,no,,"put in tiny van vs moved to correct van after argument, 'perfectly fine'",R1-balanced
+3979,positive,high,no,no,,no,,"fine, safe, seatbelts; AC weak, 'a bit hot', minus 1 star",R1-minor
+1202,positive,high,no,no,,no,,"perfect, helped with border trouble",
+1383,positive,high,no,no,,no,,"clean, on time, very safe, good experience",
+377,positive,high,no,no,,no,,"only 30 min late despite road, better than expected",R1-minor
+2645,negative,high,no,no,,no,,"payment system failed, angry",
+757,positive,medium,no,no,,no,,great comfy drive; 'only thing' no info at border,R1-minor
+2084,neutral,high,no,no,,no,,border mess 'wasn't the fault of the bus company',R3
+2373,positive,high,no,no,,no,,"on time, didn't speed, local pickups fine, 5*",R8
+3602,negative,low,no,no,,no,,confused and alarmed about a booking ('I don't take this bus!!'),
+901,negative,high,no,no,,no,,"hard seat, fish water soaked backpack, only paper given",
+1074,negative,medium,no,no,,no,,skilled driver but threatened to abandon passengers (out of fuel); should behave,R1-major
+3342,negative,medium,no,no,,no,near-duplicate of 3341 without first sentence,"20 min late, very squashed back row; arrived early",R1-major
+4036,negative,low,no,no,,no,,lost laptop and could not reach Bangkok,
+2964,negative,high,no,no,,no,Khmer,"unhygienic food/toilet stops, will stop using this bus",
+429,negative,high,no,no,,no,,"driver raced 'like a lunatic', needless breaks",R1-safety
+1642,positive,high,no,no,,no,,"quick, cautious efficient driver; only worries were other drivers",R3
+2078,neutral,medium,yes,no,,no,,"nice journey, early, smooth border vs old bus, broken toilet, scammer tuk-tuk driver",R1-balanced
+845,negative,medium,no,no,,no,,"'Fast and Furious' driver, old van; previous trip great",R1-safety
+187,positive,medium,no,no,,no,,"rain made it 'bit longer' but safe, toilet stops",R3
+3732,negative,high,no,no,,no,,"driver unfocused, always on phone while driving",R1-safety
+1504,positive,medium,no,no,,no,,"had to find right bus; journey fine, good time",R1-minor
+2044,negative,high,no,no,,no,,"'Very Bad!!', bus cancelled without notice, partial refund",
+953,negative,high,no,no,,no,Khmer,"driver didn't sleep enough, dangerous for passengers",R1-safety
+3491,neutral,medium,yes,no,,no,,experienced confident driver vs unnecessary stops with vendors/beggars,R1-balanced
+1622,negative,medium,no,no,,no,,drove so fast 'we were scared'; nice but crowded VIP bus,R1-safety
+439,negative,low,no,no,,no,safety override; writer normalizes,passing on blind corners made us nervous; 'overall it was fine',R1-safety
+4109,negative,high,no,no,,no,,"90 min late breakdown, 20 min wait, noisy passenger",
+3610,positive,medium,no,no,,no,,"legroom, safe driver, more comfortable than expected; messy border, all well in end",R1-minor
+2171,neutral,medium,yes,no,,no,,"appreciated meals, prompt bus vs 'free' tuk-tuk charged $3 each",R1-balanced
+833,positive,high,no,no,,no,,"great service, safe, punctual, recommending",
+2300,positive,high,no,no,,no,,"reminder call, waited for us, smooth, excellent",
+119,positive,high,no,no,,no,,"good driver, on time; only WiFi missing, no effect",R1-minor
+3803,positive,high,no,no,,no,,"great experience, got both beds, 👍",
+337,positive,high,no,no,,no,,generally very good; food stop 'slightly annoying',R1-minor
+2437,negative,medium,no,no,,no,,"on time, water vs driver very fast, 'it was scared'",R1-safety
+1627,positive,high,no,no,,no,,"moved to earlier bus, early arrival; limited legroom; would book again",R1-minor
+3322,positive,high,no,no,,no,,"fabulous, efficient, affordable, highly recommend",
+1240,positive,high,no,no,,no,,"exactly on time, early, comfortable, smooth border",
+3089,neutral,medium,yes,no,,no,,regular user vs cramped seat 1 for 6 hours,R1-balanced
+3629,negative,high,no,no,,no,,"tourist-trap stop, SIM card 'scam'",
+741,negative,high,no,no,,no,,"near crash with another boat, unfriendly staff, trip twice as long",R1-safety
+452,negative,medium,no,no,,no,,"usually great, this time many stops and careless abrupt driving",R1-safety
+1804,positive,high,no,no,,no,Khmer,service better than other companies,
+3190,negative,high,no,no,,no,,"no water bottle, late departure",
+3843,neutral,medium,yes,no,,no,,"good overall vs night bus arrived 3h early, long wait",R1-balanced
+1691,positive,high,no,no,,no,,"positively surprised, clean, safe; only AC too cold",R1-minor
+2428,positive,medium,no,no,,no,,"old but ok, delay from pickups, no water, but 'can recommend'",R1-minor
+434,negative,high,no,no,,no,,"very fast, overtaking, drove into opposite lane; carsick",R1-safety
+1495,positive,high,no,no,,no,,best company; 'a little fast' but driver knew what he's doing,R1-minor
+1779,negative,high,no,no,,no,Khmer,"dirty bus with trash, no water given",
+711,negative,medium,no,no,,no,,AC nice but smoking not stopped ('terrible'),R1-major
+2982,positive,medium,no,no,,no,,"'nothing much to complain about', all as planned",
+3696,negative,medium,no,no,,no,code-switched Khmer-English,asks Vibol to call passengers; nobody called at departure,R7
+1666,positive,high,no,no,,no,,"top notch, highly recommend; 'only possible complaint' restroom at stop",R1-minor
+2270,negative,high,no,no,,no,,"unfriendly shouting driver, ignored drop-off request",
+673,negative,high,no,no,,no,,"roadside pickups, uncomfortable chair, unhealthy food stop",
+2266,positive,medium,no,no,,no,,"left promptly, breaks, meals, smooth border (factual)",
+1592,positive,medium,no,no,,no,,"on time, 'acceptable' 5 min late, AC weak but bearable, safe",R1-minor
+3422,negative,medium,no,no,,no,ironic 'true Cambodian experience',"breakdown, 1.5h wait, crammed replacement van",
+3485,negative,medium,no,no,,no,,"very fast, constant overtaking, tyre failure; on time",R1-safety
+3160,negative,medium,no,no,,no,Khmer,"outbound great; return wrong cramped bus, headache 🙁",R1-major
+3590,negative,medium,no,no,,no,,"booked VIP van, got standard van and squeezed car; polite driver",R1-major
+3460,negative,high,no,no,,no,,"almost hit a truck, full speed in heavy rain; praises receptionist",R1-safety
+2480,negative,high,no,no,,no,,"no bus, 7h wait, cracked windscreen, dangerous driving, 'worst journey'",R1-safety
+1215,negative,high,no,no,,no,,food stop expensive and not tasty,
+2554,positive,high,no,no,,no,,great service; driver waited for late ferry,R3
+234,positive,medium,no,no,,no,,"clean, safe; seats tight; overall happy",R1-minor
+2264,neutral,medium,no,no,,no,,"tips: AC strong, border surreal, ignore visa touts",R5
+1511,negative,high,no,no,,no,,"seat given away, will never use again",
+2966,negative,high,no,no,,no,Khmer,"very unsatisfied, paid seat not available",
+2271,positive,high,no,no,,no,,"great journey, no trouble, highly recommend",
+612,positive,medium,no,no,,no,,"on time, staff fine, good boat; confusing at pier",R1-minor
+4062,negative,low,no,no,,no,safety override; mostly positive,"'can't complain', roomy, on time; wishes drivers didn't use phones",R1-safety
+2249,neutral,medium,yes,no,,no,,"'satisfactory', 7/10, 'fine' vs late, slow food, smoking, little direction",R8
+381,negative,medium,no,no,,no,,operator refused ticket change because bought via app,R2
+3705,negative,high,no,no,,no,Khmer,ride made writer want to vomit,
+2252,negative,high,no,no,,no,,"booked bus didn't exist, wrong ATM advice, 'never again'",
+10,positive,medium,no,no,,no,,"easy enough, bumpy but fun",
+1178,positive,high,no,no,,no,,"smooth, safe, clean stops; only 15 min late, bus a bit old",R1-minor
+2040,positive,medium,no,no,,no,,excellent service; 'only criticism' the food,R1-minor
+3645,positive,medium,no,no,,no,,"very helpful polite driver, 'not bad at all'; asks for delay notice",R1-minor
+2121,positive,high,no,no,,no,,"bus change 'not a big problem', satisfied, will use again",R1-minor
+2997,negative,medium,no,no,,no,,"'trip was good' but rude driver, honking, roadside stop to pee",R1-major
+2322,neutral,medium,yes,no,,no,,good trip vs hard to locate departure point,R1-balanced
+446,negative,high,no,no,,no,,'okay company' but irresponsible driver on the phone,R1-safety
+1989,negative,high,no,no,,no,,seats changed without informing,
+2039,positive,high,no,no,,no,,really impressed; 'only thing' a bit more border guidance,R1-minor
+4040,negative,high,no,no,,no,,"bus didn't exist, delivery truck without seat belts, driver on phone",R1-safety
+878,negative,high,no,no,,no,Khmer,"constant stops, 6 people on back seat, no seat for $8",
+501,positive,low,no,no,,no,,'only problem' 1h to get out of Phnom Penh,R1-minor
+2895,negative,medium,no,no,,no,,"fast but careful, on time vs no functional seat belts",R1-safety
+1850,positive,high,no,no,,no,,"always very good, nice staff, thank you",
+82,negative,high,no,no,,no,,"late, overcrowded, not enough life jackets, will choose another",R1-safety
+3489,negative,medium,no,no,,no,,"6.5h instead of 5, van broke down and had to be pushed",
+494,positive,high,no,no,,no,,"late start for passenger, traffic; very good careful driver",R1-minor
+2281,positive,high,no,no,,no,,"good driving, punctual; minor van issues handled; good trip",R1-minor
+372,neutral,medium,yes,no,,no,,"longer than advertised, tight vs AC ok, good price, safe driver",R1-balanced
+127,negative,high,no,no,,no,code-switched Khmer-English,"many stops, no lunch info, old bus",
+3866,positive,high,no,no,,no,,"new bus, safe driver, recommend; left late",R1-minor
+2787,negative,high,no,no,,no,,"driver on phone the whole trip, unsafe",R1-safety
+2295,positive,medium,no,no,,no,,great bus trip; asks about lost glasses,
+3567,negative,high,no,no,,no,,"'total disaster', no pickup, no AC, downgraded to van",
+2372,neutral,medium,yes,no,,no,,good vs paid for WiFi that wasn't there,R1-balanced
+1738,negative,high,no,no,,no,,"worst service, cancelled without notice, 50% refund",
+798,positive,high,no,no,,no,,"excellent, best company on route; 4 stars only because 5 reserved",R8
+2334,negative,high,no,no,,no,,"too fast, almost an accident at night; good timing",R1-safety
+1122,negative,high,no,no,,no,,"late, drove like a maniac, won't use again",R1-safety
+2934,positive,high,no,no,,no,,"very satisfied, excellent service; road construction excused",R3
+4103,negative,high,no,no,,no,,"140 km/h, 'felt like the last time of my life'",R1-safety
+1001,positive,medium,no,no,,no,,"very clean van, punctual, 'pretty good trip'; extra luggage, sometimes fast",R1-minor
+4061,negative,high,no,no,,no,,"BookMeBus changed location, no refund despite their error",R2
+2652,negative,medium,no,no,,no,,driver/car OK but 'terrible delay' of ~2 hours,R1-major
+1833,negative,high,no,no,,no,,"driver ignored destination twice, 'Shit!'",
+405,positive,medium,no,no,,no,Khmer,"return trip good: driver and engine fine; only 30 min late, 'not a problem'",R1-minor
+481,positive,medium,no,no,,no,,"on time, early, 'overall good and easy'; too warm",R1-minor
+3252,negative,high,no,no,,no,,"punctual but driving too fast 'very dangerous', roaches",R1-safety
+2557,negative,medium,no,no,,no,,"too fast and aggressive, answered calls; friendly, punctual",R1-safety
+2778,positive,medium,no,no,,no,,'Good'; more information at border would help,R1-minor
+525,negative,medium,no,no,,no,,"nice driver, enjoyable vs broken seatbelt, driver looking at phone",R1-safety
+406,negative,high,no,no,,no,"Khmer, colloquial/vulgar","insanely fast, nearly crashing, freezing AC",R1-safety
+2874,negative,medium,no,no,,no,,packed noisy van; good driver; company should organise better,R1-major
+2872,negative,high,no,no,,no,,"refused drop-off, 12 stops, breakneck speed, poor service",R1-safety
+3210,neutral,medium,yes,no,,no,,"narrow seats, bad restaurant vs great driver, early arrival",R1-balanced
+38,negative,high,no,no,,no,,"1.5h late, unannounced detour, no explanation",
+3578,positive,high,no,no,,no,,"great service, helpful driver; border 'a bit of a pain' as expected",R1-minor
+1031,negative,high,no,no,,no,,"uncomfortable, no AC reaching seat, sweating",
+3509,positive,medium,no,no,,no,French,"'Bon voyage'; changed bus twice, 'un peu' lost time, no explanation",R1-minor
+488,neutral,medium,yes,no,,no,,"luggage everywhere, weak AC vs good for short trip and cheap",R1-balanced
+920,negative,medium,no,no,,no,,refused to take them to Kep until they complained,
+2977,negative,low,no,no,,no,safety override; writer calls it normal,"factual, early arrival; drivers 'okay-ish' with 'wild overtake'",R1-safety
+523,positive,high,no,no,,no,,"great experience, everything worked perfectly",
+1636,positive,high,no,no,,no,,very comfortable; 'a bit cold',R1-minor
+220,positive,high,no,no,,no,,"worked as it should, no complaints",
+267,positive,high,no,no,,no,,"bus 'a little bit old', good driver/service, on time",R1-minor
+804,positive,high,no,no,,no,,"went very well, old but very comfortable, efficient border",
+1892,positive,high,no,no,,no,,'everything is great for me',
+1805,negative,medium,no,no,,no,,water given only to some people this time,
+1509,negative,high,no,no,,no,Khmer,"poor facilities, noisy whole trip 👎",
+1828,positive,medium,no,no,,no,,all-round good service; seats small (advice),R1-minor
+299,positive,high,no,no,,no,,"easy booking, on time, will use again",
+2360,positive,high,no,no,,no,,"nothing to complain about, fast but careful",
+1012,negative,low,no,no,,no,safety override; mixed review,"nice new van vs cramped seats, scary tailgating, long cargo stops",R1-safety
+2611,negative,high,no,no,,no,,"late airport pickup, won't use again",
+1096,positive,medium,no,no,,no,,"easy, punctual, good overall; 'only thing' small seats",R1-minor
+2114,neutral,medium,yes,no,,no,,"very good, comfortable vs border overcharge and tuk-tuk scam attempt",R1-balanced
+2726,neutral,medium,yes,no,,no,,appreciate driving skills vs driver ignored questions :-/,R1-balanced
+3269,neutral,medium,yes,no,,no,,"safe, good time vs extra pickups, cramped, overpriced stop",R1-balanced
+506,positive,medium,no,no,,no,,"good journey, on time, nice driver; seats not comfortable",R1-minor
+1544,negative,medium,no,no,,no,,"very good driver vs too many stops, worse seat than booked",R1-major
+1463,positive,medium,no,no,,no,,"smooth stable ride, no carsickness; seat can be cramped",R1-minor
+334,positive,high,no,no,,no,,"'no big complaints', decent; only extra drop-offs",R1-minor
+2025,negative,medium,no,no,,no,,"poorly maintained, filthy, missing seatbelts; good AC, punctual",R1-safety
+3714,negative,high,no,no,,no,,breakdown and long detour,
+3441,negative,high,no,no,,no,,"crazy risky driving, passengers in danger",R1-safety
+4053,neutral,medium,yes,no,,no,,"good driver, 'happy with service' vs old van, rude inspector, extra cargo",R1-balanced
+3893,negative,medium,no,no,,no,,booked seat number differs in bus system,
+1573,negative,high,no,no,,no,,"2h late, weak AC, will think twice",
+1143,positive,medium,no,no,,no,,great booking service; 'only not cool' unhelpful office,R1-minor
+1873,negative,high,no,no,,no,Khmer,too many roadside pickups disturbing sleep,
+1703,positive,medium,no,no,,no,,"30 min late but no random pickups, skilled driver, AC ok",R1-minor
+1937,positive,high,no,no,,no,,"amazing, comfortable, recommend; only slightly late",
+3220,negative,high,no,no,,no,Khmer,"late from roadside pickups, asks to fix",R7
+786,negative,medium,no,no,,no,,'everything ok except they keep lying' about WiFi,R1-major
+1581,positive,medium,no,no,,no,,'otherwise good'; van not for tall people,R1-minor
+2426,negative,high,no,no,,no,,"extreme speed, overtaking on curves, poor communication",R1-safety
+2880,positive,medium,no,no,,no,,"1h late but good low-fuss service, comfortable",R1-minor
+198,neutral,medium,yes,no,,no,,good safe driver vs unnecessary second meal stop,R1-balanced
+2113,positive,high,no,no,,no,,great experience; 'a little delay' for pickup,R1-minor
+4096,neutral,medium,yes,no,,no,,"likes BookMeBus vs will avoid operator (small seats, AC, smell)",R2
+2371,positive,medium,no,no,,no,,"'a bit cramped', AC, stops; quick but 'not too bad'",R1-minor
+2197,positive,high,no,no,,no,,"very comfortable, spacious; suggestion on visa info",R1-minor
+4106,negative,high,no,no,,no,,confirmed seats taken back for driver naps,R2
+143,positive,medium,no,no,,no,,"overall good; unclear stops, 15 min late, seat 1 uncomfortable",R1-minor
+226,positive,high,no,no,,no,near-duplicate of 225,"good experience, newer van; AC preference only",R1-minor
+270,negative,high,no,no,,no,,"no depot, always late, AC leaking on passengers",
+762,neutral,medium,yes,no,,no,,assistant handled border vs $40 for $30 visa; small beds 'normal',R1-balanced
+929,negative,low,no,no,,no,safety override; mostly positive,"on time, comfortable, safe driver, would travel again vs no seatbelts",R1-safety
+2210,negative,high,no,no,,no,,"overcharged on credit card, 'do not book online'",
+1311,negative,high,no,no,,no,Khmer,"asks driver to slow down, 120 km/h, constant overtaking",R1-safety
+161,neutral,high,no,no,,no,,lost jacket question,R5
+3528,positive,high,no,no,,no,,"staff member rushed them to catch bus, 'my hero'",
+1795,positive,medium,no,no,,no,,advice to avoid back seats; generally on time,R1-minor
+609,positive,medium,no,no,,no,,"on time, free water, helpful bag handling; stopped at every pier",R1-minor
+3525,negative,low,no,no,,no,safety override; writer positive,"'can't really fault', on time; driving 'on the edge'",R1-safety
+2857,negative,high,no,no,,no,,"loyal user now has bad experiences, wrong bus, 'Bye Saly'",
+1992,negative,medium,no,no,,no,,"nice driver vs sad about constant pickups, crying kids :(",R1-major
+2700,negative,low,no,no,,no,safety override; mostly positive,"kind, very safe driver vs defective seat belt (could switch seat)",R1-safety
+600,negative,high,no,no,,no,,"ferry left early, missed connection",
+3056,negative,high,no,no,,no,,"'worst experience', old van, car sick, too long",
+2659,negative,medium,no,no,,no,near-duplicate of 2658,"kind driver but refused mask, didn't know drop-off",
+1154,positive,medium,no,no,,no,,"easy service, good company; only bus could be cooler",R1-minor
+3870,negative,high,no,no,,no,Khmer,driver ignored toilet request for 20+ min,
+2182,positive,high,no,no,,no,,"well organised, great experience; left 1h late",R1-minor
+6,negative,high,no,no,,no,,"'very bad', overbooking, 4h late, never again",
+717,positive,medium,no,no,,no,,"AC, calm sea; departure 'a little late'",R1-minor
+2612,negative,high,no,no,,no,,nice punctual driver but nearly fell asleep driving,R1-safety
+3490,negative,high,no,no,,no,,"loud music, dangerous driving, uncomfortable",R1-safety
+2498,positive,high,no,no,,no,,"perfect trip, fast but cautious",
+822,negative,medium,no,no,,no,Khmer,asks to fix AC to be colder,R7
+3181,negative,high,no,no,,no,,"30 min late, paid seat resold, 'greedy'",
+2832,negative,medium,no,no,,no,,"on time, comfy vs stranger moved next to me, couldn't sleep :/",R1-major
+3141,negative,high,no,no,,no,,driver almost got us killed 13 times,R1-safety
+162,positive,high,no,no,,no,,"felt very safe, seats 'a little hard', all good",R1-minor
+2395,negative,medium,no,no,,no,,driver did his best but van repeatedly broke down; 'do better',R1-major
+2231,positive,medium,no,no,,no,,"voucher exchange confusion; comfortable clean bus, 2 meals",R1-minor
+363,neutral,high,no,no,,no,,asks to ignore earlier post; no opinion,R5
+3974,positive,high,no,no,,no,,excellent as always; traffic delay advice,R3
+2632,positive,high,no,no,,no,,"on time, safe, courteous, no hidden fees",
+3169,negative,high,no,no,,no,,"old van, broken seat belts, 'must fix ASAP'",R1-safety
+2364,negative,high,no,no,,no,,"overbooked, people on unsecured plastic chairs, 'beyond dangerous'",R1-safety
+1904,negative,medium,no,no,,no,,"staff didn't help clean vomit, hygiene checks only at start",R1-major
+2125,positive,medium,no,no,,no,,"unexpected decent lunch, kind drivers",
+1903,positive,medium,no,no,,no,,"comfortable, safe, good AC; horn too much",R1-minor
+509,positive,medium,no,no,,no,,"professional helpful staff, on time; office check-in, packed boat",R1-minor
+1522,negative,high,no,no,,no,Khmer,"transferred to partner vehicle, not comfortable",
+3221,positive,medium,no,no,,no,,"on time, smooth; wish for meeting-point info",R1-minor
+398,negative,high,no,no,,no,Khmer,"driver 'flies', doesn't slow on bumpy road, bruised",R1-safety
+1003,negative,high,no,no,,no,,"'VERY BAD', constant stops then speeding, very dangerous",R1-safety
+3518,negative,medium,no,no,,no,,speedy but safe driver vs freight made trip very uncomfortable,R1-major
+1701,negative,medium,no,no,,no,,"'trip was good' but seats not attached, weak AC, uncomfortable",R1-major
+839,negative,high,no,no,,no,,"no midway stop, picks up unbooked passengers repeatedly",
+2837,neutral,medium,yes,no,,no,same review as 2838,"good value vs border process not explained ('PLEASE'), return confusing",R1-balanced
+365,negative,medium,no,no,,no,,"double booking glitch, driver refused more AC",
+1699,neutral,low,no,no,,no,,children running in bus unsafe; parents' responsibility,R3
+384,negative,low,no,no,,no,safety override; humorous tone,"road terrible; 'seemed as if he was going to kill us all' (joking), driver 'very good'",R1-safety
+2256,negative,medium,no,no,,no,,"late departure, extra stop; no WiFi 'a game breaker'",R1-major
+1594,negative,medium,no,no,,no,,staff entered wrong departure time,R2
+172,positive,high,no,no,,no,,"all went well, clean, professional, will choose again",
+587,neutral,medium,yes,no,,no,,"all went fine vs overcrowded boat, reserved seats not respected",R1-balanced
+3347,negative,medium,no,no,,no,,"wrong time on website, long wait, uncomfortable replacement; helpful staff",R1-major
+3508,neutral,medium,yes,no,,no,,"fine, good time vs 'nothing special', will try someone else",R4
+362,neutral,medium,yes,no,,no,,'everything okay' vs too warm to be comfortable,R1-balanced
+1360,negative,high,no,no,,no,,"too fast, reckless, rude",R1-safety
+2435,negative,medium,no,no,,no,,"fast on wrong side of road, personal shopping stops, weak AC",R1-safety
+85,negative,medium,no,no,,no,,"ferry operator refused e-ticket, demanded cash; BookMeBus great",R2
+569,negative,medium,no,no,,no,,"'total chaos' boarding, suggests restricting pier access",R7
+2059,positive,medium,no,no,,no,,"'was okay', clean, toilet; visa seller expensive",
+3743,neutral,medium,yes,no,,no,Khmer with English 'e ticket',"safe, slower driving; service 'average'; tickets not scanned",R4
+508,positive,medium,no,no,,no,,"good service, punctual; seat 'a bit uncomfortable', no WiFi",R1-minor
+2894,positive,high,no,no,,no,,"nice, on time, friendly; lots of overtaking 'but seemed safe'",
+2764,negative,high,no,no,,no,,"'VIP' was crammed local minibus, couldn't fit",
+3260,negative,high,no,no,,no,,"'awful', old noisy car, AC not cold",
+4097,neutral,medium,yes,no,,no,,"'overall decent ride' vs 7h+ unlike advertised, suggestions",R1-balanced
+1608,negative,high,no,no,,no,,"fabulous driver but cramped noisy van, 'nightmare'",R1-major
+886,negative,high,no,no,,no,,"driver ignored drop-off request, disappointing",
+2788,negative,high,no,no,,no,same review as 2787,"driver on phone the whole way, unsafe",R1-safety
+1396,negative,medium,no,no,,no,,had to pay full price again after delayed boat,
+2387,negative,medium,no,no,,no,,"long, cramped, 1h late, stops; 'overall not too bad'",R1-major
+1974,negative,high,no,no,,no,Khmer,"broken seatbelt, bad smell, broken AC",R1-safety
+2555,neutral,medium,yes,no,,no,,"driver 30+ min late and unreachable vs friendly, drove well, made ferry",R1-balanced
+1632,positive,high,no,no,,no,,"comfortable new van, careful driver; holiday traffic",R3
+665,positive,medium,no,no,,no,,no room for bags; otherwise good uneventful ride,R1-minor
+2232,positive,medium,no,no,,no,,nice ride; only issue no free pickup,R1-minor
+758,neutral,medium,yes,no,,no,,staff speak only Vietnamese vs good couchette seats,R1-balanced
+373,positive,high,no,no,,no,,"satisfying, friendly helpful driver, punctual",
+168,negative,medium,no,no,,no,,"'OK' but 'SO COLD!!', no info, may not book again",R1-major
+1199,positive,high,no,no,,no,,"comfy reclining seats, border handled, recommended",
+44,neutral,medium,yes,no,,no,,"van 1.5h late, won't book online vs operator 'really great'",R2
+2841,neutral,high,no,no,,no,,refund question,R5
+2928,neutral,medium,yes,no,,no,,"'fine' for tourists vs AC hardly works, horn over brakes",R1-balanced
+723,negative,high,no,no,,no,,"pier changed without notice, 90 min delay",
+527,negative,high,no,no,,no,,"paid change fee twice, ticket not updated",
+3660,positive,medium,no,no,,no,French,old but comfortable; little legroom like all minivans,R1-minor
+3187,positive,medium,no,no,,no,,"good overall, satisfied; 20 min late start",R1-minor
+2086,positive,high,no,no,,no,,"ok bus, snacks, lunch, smooth border",
+3359,negative,low,no,no,,no,safety override; mostly positive,loyal customer; worried driver tailgated too closely,R1-safety
+2860,negative,medium,no,no,,no,,"arrived 2h+ later than schedule, no luggage space",R1-major
+203,negative,medium,no,no,,no,,'direct' bus went to Kep first,
+101,positive,medium,no,no,,no,,"safe steady driving, comfortable; coughing passenger without mask",R1-minor
+3541,positive,high,no,no,,no,,"good, no delays, jacket returned, definitely recommend",R1-minor
+1228,positive,medium,no,no,,no,,"good experience, comfortable; slow WiFi",R1-minor
+2791,negative,medium,no,no,,no,Khmer,asks driver of bus 3D 1199 to slow down for safety,R1-safety
+2026,positive,high,no,no,,no,,"great, new comfortable bus; loud movies 'kinda' uncomfortable",R1-minor
+13,negative,high,no,no,,no,,"misleading 40 min, took 1.5h",
+3907,positive,high,no,no,,no,,"early arrival great, comfortable bunks, tips",
+2920,negative,high,no,no,,no,,"'not good', booked seat 2 got seat 14",
+531,negative,high,no,no,,no,,"misled about direct trip, 'do not recommend'",
+2834,negative,high,no,no,,no,,"no space, too warm, no seatbelts in back; cheap",R1-safety
+1523,negative,high,no,no,,no,Khmer,"driver violates lanes and right of way, overtakes",R1-safety
+3420,negative,medium,no,no,,no,,company failed to send bus; substitute taxi driver good,R1-major
+3739,negative,medium,no,no,,no,,driver should slow down or passengers vomit,R7
+3325,positive,high,no,no,,no,,"good driver, comfortable, early, good service; no English",R1-minor
+104,positive,high,no,no,,no,Japanese,"nearly on time, breaks, no trouble; seat 'a little' sore",R1-minor
+2729,neutral,medium,yes,no,,no,,great driver and car vs painful slow booking process,R2
+3809,negative,medium,no,no,,no,,"paid second bed given away until insisting, 1h late",
+3373,negative,high,no,no,,no,Khmer,"unclear schedule, pickups, many stops, hot, late",
+1531,positive,medium,no,no,,no,,"'in general ok', good AC, early; VIP seats very narrow",R1-minor
+1033,negative,high,no,no,,no,Khmer,"old bus, weak AC, much worse than outbound",
+3453,negative,high,no,no,,no,,"online booking not found, couldn't board",
+1620,positive,medium,no,no,,no,,"good driver, clean stop; stop 'a bit long'",R1-minor
+3457,neutral,medium,yes,no,,no,French,"on time, AC ok vs no English, very noisy bus",R1-balanced
+500,positive,high,no,no,,no,,"clean, on time, great time, no insane driving",
+3343,neutral,high,yes,no,,no,guideline example,'overall services ok' vs reminder to avoid double booking,R1-balanced
+2992,negative,high,no,no,,no,,'overall ok' but hazardous driving ruined it,R1-safety
+3788,negative,medium,no,no,,no,,"1h+ late :(, no food nearby :(; driver did his best on bad road",R1-major
+1382,positive,high,no,no,,no,,so good; bus type changed; overall well,R1-minor
+3292,negative,high,no,no,,no,,"1h late pickup, no bag room, 'mediocre', hesitant to rebook",
+4091,negative,high,no,no,,no,,"driver on phone while driving, loud, 1h to leave city",R1-safety
+1697,neutral,medium,yes,no,,no,,excellent trip vs 1.5h late due to city pickups,R1-balanced
+959,negative,high,no,no,,no,,driver skipped my drop-off and laughed,
+2095,positive,high,no,no,,no,,"really happy, easy border, will use again",
+1224,negative,high,no,no,,no,,payment rejected but charged for 3 tickets,
+3940,negative,medium,no,no,,no,,stressed about sharing a bed with stranger; staff unhelpful,R7
+1139,positive,medium,no,no,,no,,"15 min late pickup 'a bit of worry', solved, courteous drop-off",R1-minor
+2864,negative,high,no,no,,no,Khmer,unhygienic food stall at midway stop,
+4044,negative,medium,no,no,,no,,"enjoyable, comfortable vs driver holding phone while driving",R1-safety
+1584,positive,medium,no,no,,no,,good minivan; unsure how to book intermediate stop,
+4038,negative,medium,no,no,,no,,"friendly skilled driver vs old noisy car, cramped back seat, broken AC",R1-major
+2251,neutral,medium,yes,no,,no,,'journey was ok' vs took a lot longer than expected,R1-balanced
+3061,negative,high,no,no,,no,,"no departure notice, seat cancelled",
+1930,negative,high,no,no,,no,Khmer,'VIP' bus is old and overloaded with cargo,
+3425,neutral,medium,yes,no,,no,,only complaint 1h late vs otherwise everything ok,R1-balanced
+3597,positive,high,no,no,,no,,"everything went well, helpful staff; visa overcharge 'not TM's fault'",R3
+2106,positive,medium,no,no,,no,,"ticket email 'a little too long'; early departure, fine trip",R1-minor
+3869,negative,medium,no,no,,no,,"drove well but 35 min late start, 1h late arrival from stops",R1-major
+713,positive,high,no,no,,no,,"helpful counter lady changed ticket free, 'totally recommended'",
+1076,negative,high,no,no,,no,,"no response to request, tickets lost, had to rebook",
+1669,negative,medium,no,no,,no,,four stops plus unnecessary lunch break,
+22,positive,high,no,no,,no,,boats excellently maintained; docks not Buva's responsibility,R3
+1203,positive,high,no,no,,no,,"great, inspector went above and beyond; printer suggestion",R1-minor
+3337,positive,high,no,no,,no,,"on time, seats ok, good driver; plastic seat warm",R1-minor
+2104,positive,high,no,no,,no,,"good, comfortable; border wait 'bit too long' lol",R1-minor
+1404,negative,high,no,no,,no,,"driver broke luggage, no luggage room",
+2107,negative,high,no,no,,no,,"'terrible', booked bus full, moved to seat by toilet",
+2687,positive,high,no,no,,no,,"punctual, professional, fast but very safe",
+864,positive,medium,no,no,,no,,"fast driver, 1h early, seat tips",
+3872,negative,medium,no,no,,no,Khmer,"asks driver not to stop so often, wastes time",R7
+2963,negative,high,no,no,,no,Khmer,"weak AC, getting hotter",
+1957,negative,high,no,no,,no,Khmer,"asks to reconsider restaurant stop: bad service, not tasty, expensive",
+490,neutral,medium,yes,no,,no,,"unannounced time change, no pickup vs roomy bus, decent safe driver",R1-balanced
+4005,negative,high,no,no,,no,,"cockroaches around bed, couldn't sleep",
+982,positive,medium,no,no,,no,,"late but informed early, '4 stars, good service overall'; 1h late",R8
+1449,positive,high,no,no,,no,,"clean, fast but safe, very happy, booking excellent",
+1812,positive,medium,no,no,,no,,departed late but fast and comfortable,R1-minor
+2312,positive,medium,no,no,,no,,"best of 6 buses, seatbelts; miscommunication solved",R1-minor
+3018,positive,high,no,no,,no,,"10 min late but early arrival, comfortable",R1-minor
+2024,negative,high,no,no,,no,,"driver refused e-ticket, forced paper note",
+1371,negative,medium,no,no,,no,,great operator service vs driver almost had accident twice,R1-safety
+705,positive,medium,no,no,,no,,"ferry 'as expected', convenient office",R4
+3305,negative,medium,no,no,,no,,suggests much cheaper meal stop (implies overpriced),R7
+2137,negative,high,no,no,,no,,chosen seats not honored,
+3624,positive,medium,no,no,,no,,"unexpected border fee; comfortable, water, safe, on time",R1-minor
+3125,negative,high,no,no,,no,,"driver ignored noisy passengers, roadside pickups, slow",
+1374,positive,high,no,no,,no,,"great trip, earlier bus, clean, highly recommend",
+3195,negative,high,no,no,,no,,"trip suspended last week, worst counter service",
+3333,neutral,medium,yes,no,,no,,"timely, 'did the job' vs long expensive stop",R1-balanced
+1392,positive,high,no,no,,no,,15 min late but on time arrival!,R1-minor
+2070,negative,high,no,no,,no,,"bad AC, legroom, wrong bus picture, 'overall bad experience'",
+1863,negative,high,no,no,,no,Khmer,"left 2h late, picks up passengers on the road",
+283,positive,medium,no,no,,no,,"very skilled, tried his best in traffic; 'a bit of anger management'",R1-minor
+2142,positive,medium,no,no,,no,,"ok overall, new bus organised after accident, would take again",R1-minor
+1626,negative,high,no,no,,no,,"very loud passengers and crying kid, narrow seat, hot AC",R3
+361,negative,high,no,no,,no,,AC problem left unrepaired across trips,
+661,positive,medium,no,no,,no,,"on time, early, dropped at guesthouse 😁; scrunched legroom",R1-minor
+1934,negative,high,no,no,,no,,"near head-on crashes, driver on phone, panic",R1-safety
+3309,positive,high,no,no,,no,,"1.5h faster, very clean, fast but safe",
+2391,positive,high,no,no,,no,,"another good service, excellent; older bus, vomiting passenger",R1-minor
+2412,negative,high,no,no,,no,guideline example,"'not bad, but' not VIP, fast driving, no WiFi or water",R1-major
+1206,negative,high,no,no,,no,,"inspector tried to cheat, will not recommend",
+3860,negative,high,no,no,,no,,"driver selfish breaks, dangerous overtaking",R1-safety
+273,negative,high,no,no,,no,,"very hot bus despite requests, 'very UNPLEASANT'",
+676,negative,low,no,no,,no,safety override; writer satisfied,"satisfied, cheap, punctual vs driver on phone and too fast",R1-safety
+618,neutral,medium,yes,no,,no,,"a bit late, unclear pickup points vs 'ok overall in the end'",R1-balanced
+211,negative,high,no,no,,no,,"6h instead of 3h, missed ferry, lost money",
+3571,positive,medium,no,no,,no,,little English but everything smooth,R1-minor
+549,negative,high,no,no,,no,,"2.5h instead of 30 min, 'deceitful'",
+2804,positive,medium,no,no,,no,,"good trip, efficient driving; full van, little legroom",R1-minor
+1505,neutral,medium,no,no,,no,,BookMeBus 'nothing special'; booking direct more convenient,R4
+408,negative,medium,no,no,,no,resigned complaint,"over an hour late, 'that's the norm'",
+2042,positive,high,no,no,,no,,good family experience; 30 min late without impact,R1-minor
+3698,negative,medium,no,no,,no,,"over an hour late, rough ride",
+1141,positive,medium,no,no,,no,,"interior 'a little bit tired', AC 'a bit hot', journey ok",R1-minor
+1718,neutral,medium,yes,no,,no,Khmer,good service vs asks to check the driver on this trip,R7
+2001,negative,high,no,no,,no,,usually excellent; too many stops and nearly had an accident,R1-safety
+1367,positive,high,no,no,,no,,"amazing, early; 'only negative' legroom",R1-minor
+2890,positive,high,no,no,,no,,"upgraded to SUV as only passenger, thanks",
+800,neutral,medium,yes,no,,no,,great hospitality vs booked seat not given (empty seat found),R1-balanced
+3971,positive,medium,no,no,,no,,"filthy disorganised station vs super fast safe ride, will ride again",R1-minor
+2068,positive,medium,no,no,,no,,everything OK; only con wrong terminal name,R1-minor
+1377,positive,medium,no,no,,no,,pretty good; staff couldn't understand it was cold,R1-minor
+773,neutral,medium,yes,no,,no,,they know what they're doing vs no information shared,R1-balanced
+3228,negative,low,no,no,,no,,asks for $1 refund after changing operator,R7
+2288,neutral,medium,yes,no,,no,,bus company great vs BookMeBus email wrong address,R2
+2415,negative,high,no,no,,no,,"bus never came, disappointed",
+3172,neutral,medium,no,no,,no,,2h late due to traffic; very responsible driver,R3
+3792,positive,high,no,no,,no,,"good helpful driver, new van; seat a bit small; 9/10",R8
+2614,negative,medium,no,no,,no,,"spacious car, lovely driver vs breakdown, 2h wait, no compensation",R1-major
+1820,positive,high,no,no,,no,,"comfortable big buses, best option",
+1994,negative,high,no,no,,no,,lost booked seat to another passenger,
+2826,negative,high,no,no,,no,,"cramped, speeding into oncoming traffic, poor communication",R1-safety
+3911,positive,high,no,no,,no,,great trip; 'only problem' 30 min late,R1-minor
+2362,neutral,medium,yes,no,,no,,"free water, friendly driver vs 45 min late from deliveries",R1-balanced
+546,negative,high,no,no,,no,,"chaotic boarding, no instructions, no return confirmation",
+1563,negative,high,no,no,,no,,"no booked seat, had to buy new tickets",
+3346,negative,medium,no,no,,no,,moved to worse seat; roof leaking onto seats,
+42,positive,medium,no,no,,no,,"'some trouble' starting engine, in the end all good",R1-minor
+302,positive,medium,no,no,,no,,"20 min late, under 3h thanks to new road",R1-minor
+3349,neutral,medium,yes,no,,no,,"very punctual, fast vs AC not working, very hot",R1-balanced
+1924,negative,medium,no,no,,no,,"outdated pickup info, broken seat; clean bus",
+547,positive,high,no,no,,no,,smooth quick both ways; 'abit of chaos' at port,R1-minor
+3355,positive,medium,no,no,,no,,"good, punctual, safe; dinner stop too short",R1-minor
+2937,negative,high,no,no,,no,Khmer,"very fast, wrong side of road, passenger safety 😡",R1-safety
+764,positive,high,no,no,,no,,"very good, highly recommend; WiFi not working",R1-minor
+458,neutral,medium,yes,no,,no,,"went well, nice driver vs many stops delayed arrival",R1-balanced
+1102,neutral,medium,yes,no,,no,,poor facilities vs kind accommodating driver; info suggestion,R1-balanced
+3779,positive,medium,no,no,,no,,"okay, comfortable seats; AC not that cool",R1-minor
+853,positive,high,no,no,,no,,"very good, highly recommend; 30 min late 'nothing too problematic'",R1-minor
+2263,negative,high,no,no,,no,,booked seat taken; system not coordinated with bus line,R2
+3202,positive,medium,no,no,,no,,"AC weak, 'a bit warm', 'a bit uncomfortable'; otherwise fine",R1-minor
+2962,negative,high,no,no,,no,Khmer,asks for hygienic food stop; food took over 1h and wasn't eaten,R7
+2828,negative,low,no,no,,no,safety override with minimizer,"good driver but 'a bit too fast, considering other obstacles'",R1-safety
+207,negative,high,no,no,,no,,"6 hours, many stops",
+780,negative,medium,no,no,,no,,"wonderful coach vs BookMeBus ticket chasing, operator not notified, no border info",R1-major
+2789,positive,medium,no,no,,no,Khmer,"asks them to keep up the good service, thanks",
+2060,negative,high,no,no,,no,,"driver's personal stops, pushy 'free' taxi driver",
+590,positive,medium,no,no,,no,,"good fast ferry, 'just 40 minutes late', would recommend",R1-minor
+485,positive,high,no,no,,no,,"good driver, 'only' 20 min delay from traffic, water",R1-minor
+1043,negative,high,no,no,,no,,wrongly charged $2 foreigner surcharge,
+338,positive,medium,no,no,,no,,"delay communicated, clean bus, perfect driver; outdated map location",R1-minor
+1204,neutral,medium,yes,no,,no,,comfortable with AC vs $40 visa overcharge,R1-balanced
+336,neutral,medium,yes,no,,no,,'good enough service' vs extra stops for locals,R1-balanced
+2743,positive,medium,no,no,,no,,very happy overall; two booking-form recommendations,R1-minor
+3331,negative,high,no,no,,no,,bus cancelled without notice,
+2615,negative,high,no,no,,no,,"driver on WhatsApp instead of road, didn't feel safe",R1-safety
+3982,negative,medium,no,no,,no,,"never punctual, 30 min wait for parcel",
+3935,positive,high,no,no,,no,,"great, clean, comfy beds, excellent driver; no water",R1-minor
+1868,negative,high,no,no,,no,,"'terrible trip ever', crazy new driver, breakdown",R1-safety
+1370,negative,medium,no,no,,no,Khmer,asks driver to reduce phone use while driving,R1-safety
+3030,positive,high,no,no,,no,,"fast but safe, well ahead of time",
+3494,neutral,medium,yes,no,,no,,"'fine overall', 6h not so bad vs cramped, many stops like delivery van",R1-balanced
+1170,negative,medium,no,no,,no,,"guide spoke little English, 1.5h longer due to traffic",R3
+533,positive,high,no,no,,no,,"great experience, on time, friendly staff, fast boat",
+1535,positive,high,no,no,,no,,"very nice journey, water, safe driver, clean restaurant",
+3563,negative,high,no,no,,no,,"solo female placed with questionable men, 'never recommend'",
+3180,negative,high,no,no,,no,Khmer,"extremely hot, no space for belongings",
+71,neutral,medium,yes,no,,no,,everything okay/good vs ~40 min late departure,R1-balanced
+3637,negative,medium,no,no,,no,,"no AC, luggage unloaded at wrong stop; road delay excused",R3
+1746,positive,high,no,no,,no,,everything perfect; 'only minor complaint' overpriced restaurant,R1-minor
+770,negative,high,no,no,,no,,"BookMeBus didn't pass on seat booking, 'poor service'",R2
+3270,negative,medium,no,no,,no,,safe trip vs refused urgent bathroom stop,R1-major
+433,negative,medium,no,no,,no,,several upsides but driver 'drove like a complete madman',R1-safety
+2293,positive,medium,no,no,,no,,"cramped but empty van, smooth journey",R1-minor
+1375,negative,medium,no,no,,no,,"bus never leaves on time, conflicts with meetings",
+2896,negative,medium,no,no,,no,,"moved to car, three squeezed in back seat",
+284,negative,high,no,no,,no,,too many pickup stops; suggests fixed pickup point,R7
+3583,negative,high,no,no,,no,,"booked seats taken, no seatbelts, felt unsafe; border super",R1-safety
+2715,negative,medium,no,no,,no,,"excellent driving vs no communication, sneezing, phone chirping",R1-major
+2975,negative,medium,no,no,,no,,"seat change made writer dizzy, no help",
+1719,negative,high,no,no,,no,,"detours, fast dangerous driving",R1-safety
+174,negative,high,no,no,,no,,"driver on phone one-handed, very hot van",R1-safety
+1338,neutral,medium,yes,no,,no,,"very cost effective, 'overall ok' vs very cramped",R1-balanced
+1423,negative,high,no,no,,no,,"'worse experience', no seat paid for, 9h trip",
+2556,negative,high,no,no,,no,,"weather cancelled ferry; operator not understanding, lost $80",R3
+3045,positive,medium,no,no,,no,,"'a little hot', everything else fine",R1-minor
+2233,negative,medium,no,no,,no,,"'only problem' fake free tuk-tuk, 'very bad impression'",R1-major
+2370,neutral,medium,yes,no,,no,,"'good, not bad' vs 50 min delay",R1-balanced
+2699,positive,high,no,no,,no,,"very happy, on time, friendly, fast but safe",
+1985,positive,medium,no,no,,no,,"75 min late (partly traffic) but comfortable, would use again",R1-minor
+3012,neutral,medium,yes,no,,no,,"good journey vs too hot, AC not working",R1-balanced
+3952,negative,high,no,no,,no,,"van not as shown, driving felt unsafe",R1-safety
+2882,negative,high,no,no,,no,Khmer,"VIP van switched to big bus, long delay, lost trust",
+1133,positive,high,no,no,,no,,"great, prompt, organised; 'only downside' unclear stops",R1-minor
+3837,positive,high,no,no,,no,,really nice overall; not 5 stars due to low seat,R8
+1852,negative,high,no,no,,no,Khmer,food at rest stop double price 😒👎,
+3366,positive,high,no,no,,no,,"small bus but fast, on time, friendly organiser",
+1990,positive,high,no,no,,no,Khmer,"good friendly driver, comfortable, cheaper than others",
+2923,negative,medium,no,no,,no,,"'average' ride, safe driver vs music blasting for 6h, headache",R1-major
+1173,neutral,medium,yes,no,,no,,"lovely driver, comfy, early vs no WiFi, late water, no border instructions",R1-balanced
+3968,negative,high,no,no,,no,,"seat layout misleading, not happy overall",
+2389,neutral,medium,yes,no,,no,,"no problem, on time vs no water, no WiFi",R1-balanced
+129,negative,medium,no,no,,no,,"small dirty hot van, 1h late; apologetic staff",R1-major
+3496,negative,medium,no,no,,no,,friendly staff; breakneck speed on winding mountain road,R1-safety
+948,neutral,high,no,no,,no,,"lost power bank, asks to be contacted",R5
+1053,neutral,medium,yes,no,,no,,"good new VIP bus, service vs very fast return and breakdown",R1-balanced
+3465,positive,medium,no,no,,no,,"express as named, good value; 'a bit overloaded'",R1-minor
+1735,negative,high,no,no,,no,Khmer,"very old 'VIP' bus, broken seats, wrong seats",
+3067,positive,high,no,no,,no,Khmer,travelled safely and comfortably,
+1285,negative,low,no,no,,no,safety override; writer accepts it,"spacious, clean vs 'pretty aggressive' driving (writer says fine)",R1-safety
+2696,positive,high,no,no,,no,,"clean comfortable car, fast but safe",
+1445,neutral,medium,yes,no,,no,,outbound 'best!' vs return departed too late,R1-balanced
+1647,neutral,medium,yes,no,,no,,"BookMeBus very good vs old van, poor AC, uncomfortable seat",R2
+2176,positive,high,no,no,,no,,very good ride; drop-off 'a bit difficult',R1-minor
+3403,negative,high,no,no,,no,,"'very good company' if you accept 1h late, dirt, ignored seats; Larryta better",sarcasm
+655,positive,high,no,no,,no,,"pretty good, 'only slightly late', fast but not scary",R1-minor
+966,negative,high,no,no,,no,,"great outbound; return speeding the whole way, felt unsafe",R1-safety
+1932,negative,high,no,no,,no,Khmer,"rude staff, uncomfortable, never again",
+3191,negative,high,no,no,,no,,"departure delayed without notice, bad lunch stop :(",
+924,negative,medium,no,no,,no,,'service is good' but very old car broke down 1h,R1-major
+2931,negative,high,no,no,,no,,"AC only cold in the morning, 'damn hot'",
+646,positive,low,no,no,,no,,"gave 5 stars for arriving safely; 12h instead of 8 (immigration, traffic)",R8
+1319,negative,medium,no,no,,no,,"van uncomfortable for 6h, recommends bus instead",
+3369,negative,medium,no,no,,no,,departure ~1.5h late collecting people; van fine,R1-major
+1259,negative,medium,no,no,,no,,enough legroom vs crazy driver overtaking very fast,R1-safety
+426,neutral,high,no,no,,no,,company not responsible for road quality,R3
+265,negative,high,no,no,,no,,"bus cancelled, one call only, 'not professional'",
+1086,negative,medium,no,no,,no,,"new comfortable van, on time vs driver treats passengers like cargo",R1-major
+1432,negative,low,no,no,,no,safety override with minimizer,good overall except driver drove 'abit unstablely',R1-safety
+345,negative,high,no,no,,no,,"fine except driver on phone, 'very unsafe'",R1-safety
+632,positive,medium,no,no,,no,,"driver picked them up, bumpy due to rain, arrived safe, good driver",R3
+1201,negative,medium,no,no,,no,,"too expensive, old bus; 'rest was ok'",R1-major
+3201,positive,medium,no,no,,no,,"small dirty office but AC van, efficient driver, on time",R1-minor
+3446,negative,high,no,no,,no,,"breakdown, transferred to another company, disappointed",
+1399,positive,high,no,no,,no,,"no complaints, good drivers; not most punctual (waiting for passengers)",R1-minor
+3710,negative,high,no,no,,no,,"old car, detours, 6.5h trip",
+2767,neutral,medium,yes,no,,no,,'Good Driver!' vs timing should be stricter,R7
+2552,negative,medium,no,no,,no,near-duplicate of 525,"enjoyable, nice driver vs broken seatbelt, driver on phone",R1-safety
+2490,neutral,high,no,no,,no,,comment already given via live chat,R5
+3047,positive,medium,no,no,,no,,"clean comfy van, on time; limited service, some pickups",R1-minor
+2803,positive,high,no,no,,no,,"'perfect', 15 min late start but early arrival, comfortable",R1-minor
+9,positive,high,no,no,,no,,"brilliant, punctual, super friendly, highly recommend",
+696,negative,high,no,no,,no,,"no instructions or safety briefing, overcrowded boat, people standing",R1-safety
+2879,negative,medium,no,no,,no,,"skilled attentive driver but far too fast in rain, risky passing",R1-safety
+3976,negative,high,no,no,,no,,"not comfortable, drove too fast, many stops",R1-safety
+3923,negative,high,no,no,,no,,"tiny shared bed, bumpy, freezing, nothing provided",
+2680,negative,medium,no,no,,no,,'good driving' but speeding and phone use while driving,R1-safety
+443,positive,medium,no,no,,no,,"seats OK, driver good, easy pickup; only luggage space small",R1-minor
+1721,positive,high,no,no,,no,,"everything perfect, comfortable, would book again",
+3022,positive,high,no,no,,no,,"really recommend; traffic delay, driver made up time",R3
+2317,positive,high,no,no,,no,,good comfortable ride; AC 'somewhat' warm,R1-minor
+2345,positive,high,no,no,,no,,"pleasantly surprised, comfortable, felt safe",
+2194,positive,high,no,no,,no,,"everything fine, clean, meals, fast but secure, worth the money",
+947,neutral,high,no,no,,no,near-duplicate of 948,"lost power bank, asks to be contacted",R5
+2353,negative,high,no,no,,no,,"old van, uncomfortable seats, 30 min late",
+421,neutral,medium,yes,no,,no,,professional apologetic receptionist vs van at least 40 min late,R1-balanced
+1488,positive,high,no,no,,no,,"surprisingly very good, punctual, clean, polite",
+857,negative,high,no,no,,no,Khmer,asks to check GPS: speed over 120 km/h,R1-safety
+2002,neutral,medium,yes,no,,no,,(+) big spacious seat vs (-) cockroaches,R1-balanced
+1000,negative,low,no,no,,no,safety override; writer accepts it,"accommodating, on time vs driver fined for speeding with small child aboard",R1-safety
+4059,positive,medium,no,no,,no,,"on time, good driver, great legroom; only 2-point seatbelts",R1-minor
+2690,negative,medium,no,no,,no,,friendly polite driver but 'too fast and aggressive',R1-safety
+3898,positive,high,no,no,,no,,"clean, on time, 'no problems', would use again",R1-minor
+3165,negative,medium,no,no,,no,,"20 min late, overcrowded van; driver drives well",R1-major
+158,neutral,medium,yes,no,,no,,"good driver, on schedule vs old very dirty van",R1-balanced
+1345,negative,medium,no,no,,no,,'everything fine' but Larryta always changes schedules and leaves late,R1-major
+492,positive,medium,no,no,,no,,'just a no nonsense bustrip',R4
+685,negative,high,no,no,,no,,"not VIP as advertised, overcharged, 'rip-off'",
+771,positive,medium,no,no,,no,,"helpful at border, clean, comfortable; advice for Indian passports",R1-minor
+1208,negative,high,no,no,,no,,inspector tried to extort 50 EUR at border,
+2219,positive,high,no,no,,no,,"great, exact departure, excellent; small meals",R1-minor
+1846,positive,high,no,no,,no,,"on time, very happy, excellent service",
+2989,negative,high,no,no,,no,,"late, broken AC, crazy braking threw passenger from seat",R1-safety
+3947,negative,medium,no,no,,no,,"comfortable bus but very fast driver, uneasy",R1-safety
+1810,negative,medium,no,no,,no,,"no English, boarding location in email wrong",
+678,negative,low,no,no,,no,safety override; writer positive overall,"'great ride', few stops vs driver a little too fast, killed a dog",R1-safety
+1858,negative,medium,no,no,,no,Khmer,polite note that departure was 10+ min late,indirect complaint
+1943,positive,high,no,no,,no,,"great, spacious, safe careful driver; only mosquitoes",R1-minor
+3006,negative,medium,no,no,,no,Khmer,"asks for curtains, sun glare made sleeping hard",R7
+3477,negative,medium,no,no,,no,,"'alright' but 1.5h late and driving too fast, felt unsafe",R1-safety
+1599,neutral,medium,yes,no,,no,,'so far so good' vs AC doesn't work,R1-balanced
+2303,positive,medium,no,no,,no,,bus not clean but excellent safe trip,R1-minor
+125,positive,high,no,no,,no,,"nice private van, made up delay, good driver; sleeping difficult",R1-minor
+2082,neutral,medium,yes,no,,no,,"helpful staff, good driver, equipped bus vs poor food, unclear visa fees",R1-balanced
+1836,positive,high,no,no,,no,,"excellent, on time, spacious, safe",
+1106,negative,medium,no,no,,no,,"AC failure not checked, still not cool, may not ride again",R1-major
+3844,negative,high,no,no,,no,,"luxurious bus but very bad service, never again",
+596,positive,high,no,no,,no,,"easy booking, well guided, punctual crossing, loved it",
+3175,negative,high,no,no,,no,Khmer,"driver dozing, fast ruthless overtaking, no safety",R1-safety
+2482,negative,high,no,no,,no,,"4h delay, cramped, asked to pay twice",
+180,positive,high,no,no,,no,,"punctual, early, comfortable, accurate driving",
+4079,negative,high,no,no,,no,,"parents taken to Poipet instead of Siem Reap, 'worst service'",
+3641,negative,high,no,no,,no,near-duplicate of 3640,"led onto wrong bus, paid taxi",
+1754,positive,medium,no,no,,no,,"very comfortable, reclining seats; 'quite hot though'",R1-minor
+1418,positive,high,no,no,,no,Khmer,clean new bus; earlier departure slightly off; 'really recommend',R1-minor
+3374,negative,high,no,no,,no,,"'awful trip', 1.5h city loop, seat not given, 7.5h",
+3099,negative,high,no,no,,no,Khmer,"asks for more careful driving, speeding, unsecured luggage",R1-safety
+3246,negative,low,no,no,,no,safety override; writer not upset,half hour early; driver 'daring but also quite skillful',R1-safety
+3278,negative,low,no,no,,no,safety override,"on time, early vs 'a little scared' by speed",R1-safety
+1155,negative,high,no,no,,no,,'only if you don't have any other choice',
+77,negative,high,no,no,,no,,denied boat seat despite ticket,
+3411,negative,medium,no,no,,no,,"'everything fine except' maskless inexperienced driver, 8h trip",R1-major
+2229,negative,high,no,no,,no,,"had to unload luggage in 1 minute, no WiFi, 'book Giant Ibis!'",
+1996,negative,high,no,no,,no,,"booked private bed, given shared bed with 5",
+2168,neutral,medium,yes,no,,no,,"good ride, friendly staff vs pushy 'free' tuk-tuk driver",R1-balanced
+3378,positive,medium,no,no,,no,,"everything good, ok trip; rough road not company's fault; waiting spot",R3
+3745,negative,medium,no,no,,no,,great driver vs constant stops turning 3.5h into 6h,R1-major
+2393,neutral,low,yes,no,,no,ambiguous tone,safe driver vs 1h late ('only' possibly ironic),R1-balanced
+2905,negative,high,no,no,,no,,"driving could be safer, 1h late, unnecessary stops",R1-safety
+3054,positive,medium,no,no,,no,,"overall good, safe; AC not working well, please improve",R1-minor
+753,negative,high,no,no,,no,,"rude yelling staff, seat changed without explanation",
+3114,positive,medium,no,no,,no,,whole experience good except overpriced restaurant stop,R1-minor
+1286,negative,medium,no,no,,no,,"3h seatbelt alarm from passenger, driver did nothing",R3
+1207,positive,high,no,no,,no,,"great service, safe; outlets would be nice; would use again",R1-minor
+3146,negative,high,no,no,,no,,"would not advise: fast irresponsible driving, freezing AC, rude",R1-safety
+185,positive,high,no,no,,no,,"easy, clean, comfortable; 45 min late 'not a big deal'",R1-minor
+2558,positive,high,no,no,,no,,"very friendly, careful driver; horn common",R1-minor
+3566,positive,medium,no,no,,no,,"very good, highly recommend; forgotten booking, waited 1h",R1-minor
+1144,neutral,medium,yes,no,,no,,'overall great' vs very rude shouting inspector,R1-balanced
+3596,positive,high,no,no,,no,,"great, will use again; charging suggestion",R1-minor
+2174,negative,high,no,no,,no,,"booked bus full, had to wait",
+2708,positive,high,no,no,,no,,"great polite driver, balanced speed",
+218,negative,high,no,no,,no,,"late, smelly bedding, 'overall not good'",
+2261,neutral,low,yes,no,,no,tone ambiguous,"small meals; 'only 9 hours..., great!' and no WiFi (possibly ironic)",sarcasm
+2405,negative,high,no,no,,no,,"parcels, delays, 'worst trip', $18 unacceptable",
+1944,neutral,medium,yes,no,,no,,diesel smell and noise from old bus vs 'everything was ok',R1-balanced
+3372,negative,high,no,no,,no,,"1h longer, inconvenient drop-off, 'very bad'",
+1029,negative,medium,no,no,,no,,driver should be considerate: 'arriving alive is much better',R1-safety
+3734,neutral,medium,yes,no,,no,,"nice trip vs bumpy, big delay",R1-balanced
+3783,negative,high,no,no,,no,,"late, stops everywhere, curtains yanked open, 6.5h",
+2460,neutral,high,no,no,,no,,question about receipt,R5
+3123,neutral,medium,yes,no,,no,,30 min late vs everything else ok,R1-balanced
+179,negative,high,no,no,,no,,"2h late, driver dinner stop only for himself",
+2663,positive,high,no,no,,no,,"'a bit late' but perfect safe driving, loved him",R1-minor
+1216,neutral,medium,yes,no,,no,,"broken seat backs, high visa fee, no info vs 'overall a good trip'",R1-balanced
+1193,positive,medium,no,no,,no,,brought us safely; border chaotic but 'how it works',R3
+1921,negative,medium,no,no,,no,,"timetable wrong!!!, ride took longer",
+573,positive,medium,no,no,,no,,'Good!'; mobile ticket confusion,R1-minor
+4023,negative,medium,no,no,,no,,"arrived 3h early at 5am, had to rent hostel",
+2827,negative,high,no,no,,no,,"very cramped 5h, dangerous driver with near misses",R1-safety
+438,negative,medium,no,no,,no,,"on time, clean, free water vs 'insanely fast', too dangerous",R1-safety
+39,negative,medium,no,no,,no,,polite emails vs treated 'like dirt' at Buva Sea office,R2
+2004,positive,medium,no,no,,no,,"good, very fast, spacious seats; bit old, expensive stop shop",R1-minor
+2513,positive,high,no,no,,no,,"totally recommend, early, worth it",
+3031,positive,high,no,no,,no,,"fast, punctual; AC 'a bit too cold', otherwise great",R1-minor
+2605,positive,high,no,no,,no,,"crazy road traffic but amazing driver, highly recommend",R3
+3991,neutral,medium,yes,no,,no,,"stressful bed-sharing surprise vs very helpful staff, but seat at back",R1-balanced
+1348,negative,medium,no,no,,no,Khmer,asks to correct driver who doesn't respect traffic law,R1-safety
+3500,negative,low,no,no,,no,Spanish; safety override with minimizer,driving 'a bit risky at times' but normal for Cambodia,R1-safety
+1733,negative,medium,no,no,,no,,"comfortable vs AC repair stop, 1.5h late, surcharge to reach pier",R1-major
+1593,positive,medium,no,no,,no,,"seat uncomfortable but 'overall, great service'",R1-minor
+1543,positive,high,no,no,,no,,"loved everything; two suggestions (WiFi, break times)",R1-minor
+1614,negative,high,no,no,,no,,"paid minivan full, substandard bus same price",
+2491,neutral,medium,yes,no,,no,,"no confirmation, cat-urine smell vs on time, friendly, drove well",R1-balanced
+3321,positive,medium,no,no,,no,,"'no drama', early arrival; only downside no English",R1-minor
+2647,negative,high,no,no,,no,,"driver fell asleep driving, 'death trap'",R1-safety
+2706,negative,high,no,no,,no,,'absolutely ridiculous' pricing,
+925,positive,high,no,no,,no,,"smooth fast; QR glitch fixed; good price, pleasant",R1-minor
+774,negative,medium,no,no,,no,,"WiFi without internet, weak AC",
+1334,neutral,medium,yes,no,,no,,"small uncomfortable seats vs punctual, smooth ride",R1-balanced
+1499,negative,medium,no,no,,no,,"outbound perfect; return cancelled on board, 45 min wait, worse van",R1-major
+1767,positive,medium,no,no,,no,,great night trip; seat 'little uncomfortable' if tall,R1-minor
+4052,positive,high,no,no,,no,,"super service, 3 hours",
+1672,negative,low,no,no,,no,safety override; writer positive,"on time, comfy vs driver 'a bit crazy, but it is Cambodia!'",R1-safety
+734,positive,medium,no,no,,no,,"'a bit confusing' pier; ferry good, ~5 min late",R1-minor
+1020,positive,medium,no,no,,no,,"'overall great', only issue AC ('a little more'), son got sick",R1-minor
+641,negative,low,no,no,,no,safety override; mostly positive,very happy with drivers vs a driver in Poipet was drinking,R1-safety
+3926,negative,medium,no,no,,no,,"cracked windshield, weak AC; helpful friendly driver",R1-major
+964,negative,high,no,no,,no,Khmer,"asks driver to be careful, scary overtaking",R1-safety
+2790,negative,high,no,no,,no,Khmer,"bus broke down, missed work; asks for vehicle checks",R7
+3905,positive,medium,no,no,,no,,"great, quiet, comfortable; AC very cold ⛄",R1-minor
+1359,negative,medium,no,no,,no,,"changed booking not in system, had to wait",
+1837,negative,high,no,no,,no,,"bus cancelled, promised refund never paid",
+1874,positive,medium,no,no,,no,Khmer,interior 'a bit old but acceptable',R1-minor
+3178,positive,medium,no,no,,no,,nice service; seat changed without asking (writer understands),R1-minor
+3302,negative,high,no,no,,no,,"insane driver, passengers vomiting, overfilled, tiny seats",R1-safety
+2413,positive,high,no,no,,no,,fast but in control,
+4080,negative,medium,no,no,,no,,"name missing from list, 1h late",
+1123,positive,medium,no,no,,no,,"decent ride, no issues, worn van; seat-booking suggestion",R1-minor
+1864,neutral,medium,yes,no,,no,,"almost 1h wasted at departure vs 'in overall, its good'",R1-balanced
+3454,negative,low,no,no,,no,safety override; writer positive,'perfect' and good overall except driver 'driving super fast',R1-safety
+3382,positive,high,no,no,,no,,"'a bit old', accommodating safe driver, pleasant",R1-minor
+3130,negative,high,no,no,,no,,"110+ km/h, ignored requests to slow down",R1-safety
+2275,negative,high,no,no,,no,,"confirmed pickup never came, missed bus, 'big joke'",
+3591,positive,medium,no,no,,no,,"surprisingly pleasant, spacious; hard to find bus",R1-minor
+4058,negative,high,no,no,,no,,"good space, on time vs reckless driver in rain, no seatbelt",R1-safety
+2845,neutral,medium,yes,no,,no,,30 min late vs 'otherwise a good service',R1-balanced
+2167,positive,high,no,no,,no,,"great service, fed us, super friendly",
+3524,neutral,medium,yes,no,,no,,"good service, safe, comfy vs way too many stops",R1-balanced
+4021,positive,medium,no,no,,no,Khmer with English 'Driver',"punctual, clean, good service; asks to stop taxi-style pickups",R1-minor
+936,negative,high,no,no,,no,,"rushing, hard braking, collided with motorbike",R1-safety
+3418,positive,high,no,no,,no,,"pleasant, good driver, recommend; legroom 'a bit cramped'",R1-minor
+630,neutral,medium,yes,no,,no,,"late, unannounced stop vs smooth ride, luggage help",R1-balanced
+3231,negative,high,no,no,,no,,"driver too fast, sudden braking, 'no more trip'",R1-safety
+2090,negative,high,no,no,,no,,"visa scam on bus, bad bus and food",
+3036,negative,medium,no,no,,no,Khmer,"not satisfied with food stop, asks for better one; thanks",indirect complaint
+3791,negative,high,no,no,,no,Khmer,"driver on phone constantly, speeding",R1-safety
+620,negative,high,no,no,,no,,"cancelled boat, overcrowded unsafe replacement",R1-safety
+3438,negative,medium,no,no,,no,,"punctual vs crazy fast driving, felt unsecure",R1-safety
+3104,negative,medium,no,no,,no,,"only one WC stop in 6h, driver a little too fast",
+1137,negative,high,no,no,,no,,"way too fast and unsafe, ignored requests",R1-safety
+3829,positive,high,no,no,,no,,"very good, clean, legroom, no horror driving",
+791,neutral,medium,yes,no,,no,,"comfy, on time vs everyone dropped 1 km early",R1-balanced
+3048,negative,high,no,no,,no,,"overloaded back seat, asks to change",R7
+795,neutral,medium,yes,no,,no,,"comfy bus vs WiFi down, no English ('much fun' at border)",R1-balanced
+484,positive,medium,no,no,,no,,"good, water, perfect AC, on time; seats don't recline; will use again",R1-minor
+2724,positive,high,no,no,,no,,"great driver, quick but very safe, recommend",
+2184,positive,medium,no,no,,no,,"helpful crew, system works; bus old",R1-minor
+3648,negative,high,no,no,,no,,"2h late, no AC, many stops, 'one of the worst trips'",
+813,positive,medium,no,no,,no,,"'ok', above average; lack of info common to all",R1-minor
+410,neutral,medium,yes,no,,no,,"'not the best experience' vs on time, got there",R1-balanced
+2501,positive,high,no,no,,no,,"very professional courteous driver, will use again; payment wish",R1-minor
+805,negative,high,no,no,,no,,"booked seat not given, constant horn",
+1318,negative,high,no,no,,no,,"'worst service', booking not passed on, no ride",R2
+1564,positive,medium,no,no,,no,,good experience; driver spoke only Khmer,R1-minor
+489,neutral,medium,yes,no,,no,,'great service' vs uncomfortable Ford Transit,R1-balanced
+3862,positive,medium,no,no,,no,,"no issues, efficient staff; no WiFi or charging",R1-minor
+1744,positive,medium,no,no,,no,,"spacious seats, everything great; drop-off location tip",R1-minor
+743,neutral,medium,yes,no,,no,,"all fine, good bus vs 6h trip from slow driving",R1-balanced
+2935,negative,medium,no,no,,no,Khmer,asks for hygienic food stop and bathroom,R7
+3519,positive,medium,no,no,,no,,on time; drove quite fast to make up time,
+2903,negative,high,no,no,,no,Khmer,"unsteady speed, even non-sufferer felt sick",
+614,negative,high,no,no,,no,,"not told of other pier, 3h wait, wrong drop-off",
+1962,neutral,medium,yes,no,,no,same review as 1961,overall good vs no WiFi and different bus/seat,R1-balanced
+2075,positive,high,no,no,,no,,"very nice, recommended; small legroom",R1-minor
+1849,positive,high,no,no,,no,,"very good staff, 'little cold', great journey",R1-minor
+1335,positive,high,no,no,,no,,"fast, safe, reliable, 2 hours",
+451,negative,low,no,no,,no,safety override,"punctual, clean, AC, WiFi vs driver 'driving very fast'",R1-safety
+431,positive,medium,no,no,,no,,on time; rough road handled as best possible,R3
+2655,negative,medium,no,no,,no,,usually good vs maskless driver on phone almost throughout,R1-safety
+3300,neutral,high,yes,no,,no,guideline R1 example,comfy bus and nice driver vs 2 hours late,R1-balanced
+2339,negative,medium,no,no,,no,Khmer,"asks for temperature checks, never done",R7
+2979,neutral,medium,yes,no,,no,,"'overall is good' vs weak AC, buggy booking app",R1-balanced
+348,neutral,medium,yes,no,,no,,good respectful driver vs 'don't be late on departure',R7
+1464,positive,medium,no,no,,no,,good acceptable service; 'only little comment' long lunch stop,R1-minor
+1747,negative,high,no,no,,no,,"vehicle swap, 7.5h with many stops",
+2762,neutral,low,no,no,,no,,seat advice for long legs,R5
+435,positive,high,no,no,,no,,"perfect, very comfortable; slight lateness from festival traffic",R3
+2146,positive,high,no,no,,no,,"excellent, punctual, meals, patient driver",
+2530,neutral,medium,yes,no,,no,,"helpful courteous driver vs no communication from operations, delay",R1-balanced
+2344,positive,high,no,no,,no,near-duplicate of 2345,"pleasantly surprised, comfortable, felt safe",
+551,positive,high,no,no,,no,,"newest faster less crowded ferries, highly recommended",
+3651,neutral,low,no,no,,no,,shaky drive on N3 road; cushion advice,R3
+995,positive,medium,no,no,,no,,"car problem solved by combining vans; 'over all nice', thanks",R1-minor
+1941,positive,high,no,no,,no,,"careful driver, on time; no WiFi; very satisfied",R1-minor
+3062,positive,high,no,no,,no,,"early, exact departure, fast but safe, comfortable",
+3736,positive,high,no,no,,no,,"friendly competent staff, reliable, would book again; longer than advertised",R1-minor
+2577,neutral,medium,yes,no,,no,,"good trip, on-time driver, nice car vs 1.5h toll queue, 'very bad organisation'",R1-balanced
+47,positive,high,no,no,,no,,"useful early boat, good fast, lifejackets for all",
+3961,neutral,medium,yes,no,,no,,"everything fine vs cabin too small, insects running around",R1-balanced
+1947,negative,high,no,no,,no,,"lunch stop too short, couldn't eat on bus",
+1895,negative,medium,no,no,,no,,seats very small,
+1242,positive,high,no,no,,no,,"amazing trip, comfy seats, smooth border, no extra fees",
+3883,negative,high,no,no,,no,Khmer,"no curtains, scorching sun",
+1339,positive,high,no,no,,no,,"on time, clean, safe, 'All good!'",
+4077,negative,medium,no,no,,no,,"comfortable bus vs late, passengers not dropped at right stop",R1-major
+1635,positive,medium,no,no,,no,,"left late but ride ok, safe nice driving",R1-minor
+1731,neutral,medium,yes,no,,no,,"okay drive, no speeding vs narrow bunks, no English communication",R1-balanced
+2319,positive,high,no,no,,no,,"easy, well kept, safe; late but warned in advance",R1-minor
+1700,neutral,medium,yes,no,,no,French,"comfortable seats, perfect AC vs constant ship-like horn, many stops, 20 min late",R1-balanced
+1545,positive,high,no,no,,no,,"professional, on time, clean, water",
+2838,neutral,medium,yes,no,,no,same review as 2837,"good value vs border process not explained ('PLEASE'), return confusing",R1-balanced
+3611,positive,high,no,no,,no,,"really great, recommend; beware 'free' tuk-tuk",R1-minor
+3473,negative,high,no,no,,no,,"'extremely dissatisfied': no seatbelts, too fast",R1-safety
+2773,negative,medium,no,no,,no,,warns never to take seat 1 (painful),
+2836,positive,medium,no,no,,no,,great bus travel; unaware of small bus to border,R1-minor
+4006,negative,high,no,no,,no,,staff member repeatedly leered into my bunk,
+579,positive,high,no,no,,no,,"glad I chose them, recommend; return 'a little late'",R1-minor
+3775,negative,medium,no,no,,no,,"30 min delay, AC weak, very hot, 'not a big fan'",
+1325,negative,high,no,no,,no,Khmer,"many stops, arrival time very unreliable",
+1050,neutral,medium,yes,no,,no,Khmer,AC broke mid-trip vs driver tried to help,R1-balanced
+1113,positive,medium,no,no,,no,,"driving only looks dangerous; driver did a good job, fastest way",
+642,positive,medium,no,no,,no,,"drinking driver was another van's; our drivers great, very happy",R3
+3072,positive,high,no,no,,no,,'no negative things'; a bit longer due to holiday,R3
+476,negative,high,no,no,,no,,"booked front seats, forced into cramped back row",
+1953,negative,high,no,no,,no,Khmer,"online-booked seat already sold, messy",
+1420,negative,medium,no,no,,no,,competent safe driver vs reserved seat lost without explanation,R1-major
+2768,negative,high,no,no,,no,,"booked 15-seat VIP van, got 25-seat minibus",
+2455,negative,high,no,no,,no,,"1.5h late, rude driver, motorbike in my seat",
+4018,negative,medium,no,no,,no,Khmer,"booked seat 3, sat in seat 5",
+1715,negative,high,no,no,,no,,"no highway, 2h late, loud music, 'unacceptable'",
+3969,neutral,medium,yes,no,,no,,"clear instructions, clean comfortable vs 10h, wouldn't let us out at hotel",R1-balanced
+2635,neutral,medium,yes,no,,no,,careful driver vs tried to charge more than agreed,R1-balanced
+1016,negative,medium,no,no,,no,,"unexplained extra wait, driver on phone, no distancing",R1-safety
+274,positive,medium,no,no,,no,,"excellent time, speedy not reckless; AC not great",R1-minor
+640,negative,high,no,no,,no,,"sleeper only to border, then cramped van, chaotic border",
+879,negative,medium,no,no,,no,,"standard van with little legroom, expected more comfort",
+772,positive,high,no,no,,no,,"nice helpful driver, comfy seats, worth the value",
+2265,positive,medium,no,no,,no,,"everything great, helpful staff; needs more info about Bangkok arrival",R1-minor
+2411,negative,medium,no,no,,no,,"nice driver vs no English, many stops, unfriendly ticket lady",R1-major
+1060,positive,medium,no,no,,no,,"hard to sit, but loves safety, service, punctuality",R1-minor
+2719,positive,high,no,no,,no,,"office helpful, driver waited 3h, breakdown handled, fantastic",
+2396,positive,high,no,no,,no,,"smooth, fast but felt safe; little legroom, overall good",R1-minor
+2414,positive,medium,no,no,,no,,safe option; some old vehicles but AC and reasonable,R1-minor
+610,positive,high,no,no,,no,,"nice boat, helpful staff, water; left 'a bit later'",R1-minor
+1835,negative,high,no,no,,no,,"cancelled without notice, waited in dark, no refund",
+1502,negative,medium,no,no,,no,,"everything very good vs no seat belt, 'very worrying'",R1-safety
+1480,negative,medium,no,no,,no,,"'overall okay' but late, no luggage space, very uncomfy",R1-major
+1197,negative,high,no,no,,no,Japanese,"broken seat and footrest, WiFi fails, no lunch guidance",
+1198,positive,high,no,no,,no,,"efficient border, early, 'only good things' about staff",
+2089,neutral,medium,yes,no,,no,,"on time, clean, good food, recommend vs visa scam stop, fake free tuk-tuks",R1-balanced
+2573,positive,high,no,no,,no,,"superb driver, fast but safe",
+1247,positive,high,no,no,,no,Khmer,"good service, on time, polite driver",
+698,positive,medium,no,no,,no,,"comfortable, AC, helpful operators; return took longer",R1-minor
+1461,positive,high,no,no,,no,,"friendly courteous driver, felt entirely safe",
+138,positive,high,no,no,,no,,"on time, pickups fine, would choose again",
+3522,positive,medium,no,no,,no,,"good service; 'small disruption', little luggage room; overall good",R1-minor
+2007,negative,medium,no,no,,no,,"comfortable seats, good driver BUT no WiFi, loud movie, no info",R1-major
+2267,neutral,medium,yes,no,,no,,"smooth trip, helpful staff vs toilet smells really bad",R1-balanced
+483,negative,medium,no,no,,no,,"on time, water, AC vs driver 'like a maniac at full speed'",R1-safety
+4043,negative,high,no,no,,no,,4h trip became 6h and still 30 min late,
+2689,positive,high,no,no,,no,,fine ride; car problem resolved well; would use again,R1-minor
+3483,positive,high,no,no,,no,,"good van, good driver, on time; only city traffic",R3
+750,positive,high,no,no,,no,,"really perfect, safe, friendly, thanks BookMeBus",
+3472,positive,high,no,no,,no,,"comfortable, punctual, will use again",
+510,positive,medium,no,no,,no,,fast and reliable; pier transport advice,
+436,positive,medium,no,no,,no,,good trip; bad road last 25 km; WiFi not working,R1-minor
+4081,neutral,medium,yes,no,,no,,"amazing staff vs driver forgot drop-off, no apology, paid tuk-tuk",R1-balanced
+2925,positive,high,no,no,,no,,"good support, only 3 hours",
+1442,positive,high,no,no,,no,,"fine, 'a bit speedy', thanks for keeping us safe",R1-minor
+784,negative,high,no,no,,no,,"'AVOID!', no visa help, don't care about safety",
+329,negative,medium,no,no,,no,,everything very good except missing seat belt,R1-safety
+3555,negative,medium,no,no,,no,,"good trip overall but driver almost hit motorcyclists; WiFi, AC poor",R1-safety
+3375,negative,high,no,no,,no,,"stopped by police, 1-2h wait, '0/10', wants refund",R8
+601,positive,high,no,no,,no,,"friendly helpful staff, 30 min",
+1975,positive,high,no,no,,no,,"clean spacious, smooth, water; no WiFi 'normal'",R1-minor
+1479,neutral,medium,yes,no,,no,,"'overall good experience' vs late, no luggage/storage space for the price",R1-balanced
+132,negative,high,no,no,,no,,"really disappointed, constant stops, unfriendly driver, late",
+2100,positive,high,no,no,,no,,"on time, free tuk-tuk, no bus change, visa organised",
+570,neutral,medium,yes,no,,no,,more passengers than seats vs fast and on time,R1-balanced
+208,negative,medium,no,no,,no,,"early, proper bed vs stranger's hand in my bunk at 3am",R1-safety
+1387,neutral,medium,yes,no,,no,,good services vs trip takes too long,R1-balanced
+272,negative,medium,no,no,,no,,"bus cancelled, couldn't call back; asks for SMS",R7
+3888,negative,high,no,no,,no,Khmer,"small cramped bus, hard at night",
+1336,negative,medium,no,no,,no,,positive approach but driver needs more vigilance on busy roads,R1-safety
+3820,negative,medium,no,no,,no,,"'okay but' 1h late, no English",R1-major
+3924,positive,high,no,no,,no,,"never disappointed, chill border; delay from others' visa issues handled",R3
+526,negative,high,no,no,,no,,"intentionally misleading 'direct' trip, operator laughed",
+1869,negative,medium,no,no,,no,,driver nearly left before I finished lunch,
+3314,positive,high,no,no,,no,,"very friendly, free water, easy journey; a couple minutes late",R1-minor
+3728,negative,medium,no,no,,no,,"'a few scary moments', 1h late, unannounced pickups",R1-safety
+1292,positive,low,no,no,,no,,'trip was OK'; complaint only about grammar of slogan on bus,R4
+1160,positive,high,no,no,,no,,despite bad reviews everything went smoothly,
+171,neutral,medium,yes,no,,no,,5 stars for schedule and clean seats vs 4 and 2 stars for mask issues,R8
+3965,positive,medium,no,no,,no,,great time saver; beds small and shared (fine for writer),R1-minor
+3464,positive,high,no,no,,no,,"on time, clean, very safe by local standards, recommend",
+1289,positive,high,no,no,,no,,very comfortable; only WiFi missing,R1-minor
+1652,positive,high,no,no,,no,,"15 min late but 1h early, assigned seat, comfortable",
+473,negative,medium,no,no,,no,,"punctual vs no WiFi, old dirty cramped bus, very fast driving",R1-major
+1793,neutral,medium,yes,no,,no,,"'overall good' vs AC not working, very hot",R1-balanced
+79,negative,high,no,no,,no,,"'irresponsible', free shuttle left us, paid $15 extra",
+3751,neutral,medium,yes,no,,no,,"took almost twice the time vs very nice driver, great vehicle, good AC",R1-balanced
+2102,positive,medium,no,no,,no,,"good journey, smooth border, nice snacks; more info would help",R1-minor
+4086,negative,high,no,no,,no,,"bus didn't run, late notice, wants refund",
+1492,positive,medium,no,no,,no,,only two passengers; thanks to BookMeBus and Larryta,
+3482,negative,medium,no,no,,no,,"on time vs erratic insane overtaking, felt very unsafe",R1-safety
+1148,negative,low,no,no,,no,,"staff forced shoes into luggage, barefoot at rest stops :)",
+1525,positive,high,no,no,,no,,"really great service, comfy seats, newish van",
+2013,negative,high,no,no,,no,resigned complaint; guideline example,"pickups problem persists, 'I just accept it'",
+896,negative,high,no,no,,no,,"bus deleted last minute, 'scam'",
+1602,neutral,medium,yes,no,,no,,"15 min late, traffic, little luggage space vs good driver",R1-balanced
+471,positive,high,no,no,,no,,"good punctual driver, perfect stop; delay only from city traffic",R3
+3135,neutral,medium,yes,no,,no,,"fine, earlier trip allowed vs 1h late, seats too small ('major problem')",R1-balanced
+2276,positive,high,no,no,,no,,highly recommend; only station restroom needs maintenance,R1-minor
+693,negative,medium,no,no,,no,,"great ticket purchase vs poorly organised pier, QR refused, last-minute stress",R1-major
+2358,negative,medium,no,no,,no,,"booked seats 3-4, moved to 6-7",

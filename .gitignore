@@ -1,0 +1,43 @@
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+
+# virtual environments
+.venv/
+venv/
+env/
+
+# secrets and keys
+.env
+.env.*
+*.pem
+*.key
+credentials*.json
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+~$*
+*.lock
+
+# large model files (recreated by the notebooks, see README "Large files")
+models/*
+!models/tfidf_logreg.joblib
+*.vec.gz
+*.bin
+*.safetensors
+
+
+# tool folders
+.playwright-mcp/
+
+# internal team files (not part of the submission)
+PROMPT.md
+TEAM_GUIDE.md
+PRESENTATION_SLIDES.md
+/KEYWORD_REVIEW.xlsx
+
+# Google Colab runner (not used: the project is run locally)
+notebooks/00_colab_run_all.ipynb

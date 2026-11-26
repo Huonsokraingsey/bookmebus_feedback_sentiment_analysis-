@@ -1,0 +1,36 @@
+{
+  "model": "tfidf_logreg",
+  "model_type": "Statistical ML",
+  "model_name": "TF-IDF + Logistic Regression",
+  "input_features": "TF-IDF (word + char)",
+  "uses_word_order": "partly (word bigrams)",
+  "uses_context": "no",
+  "trainable_parameters": 65481,
+  "best_val_macro_f1": 0.9384,
+  "settings": {
+    "features": "word + char",
+    "C": 10.0,
+    "class_weight": "balanced",
+    "word_ngram_range": [
+      1,
+      2
+    ],
+    "char_ngram_range": [
+      2,
+      5
+    ],
+    "min_df": 2
+  },
+  "training_time_sec": 0.6,
+  "test_translated": {
+    "accuracy": 0.9637,
+    "macro_f1": 0.9637
+  },
+  "test_native": {
+    "accuracy": 0.8925,
+    "macro_f1": 0.851,
+    "pure_khmer_macro_f1": 0.8614,
+    "code_switched_macro_f1": 0.6595
+  },
+  "test_native_label_source": "gold"
+}

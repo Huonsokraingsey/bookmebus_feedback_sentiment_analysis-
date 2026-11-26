@@ -1,0 +1,9 @@
+{
+  "seed": 45,
+  "label_names": [
+    "negative",
+    "positive"
+  ],
+  "max_len": 47,
+  "test_native_label_source": "gold"
+}

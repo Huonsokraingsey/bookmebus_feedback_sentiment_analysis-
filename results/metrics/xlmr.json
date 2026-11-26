@@ -1,0 +1,34 @@
+{
+  "model": "xlmr",
+  "model_type": "Transformer",
+  "model_name": "XLM-R (xlm-roberta-base, fine-tuned)",
+  "input_features": "SentencePiece subword pieces of the normalized Khmer text",
+  "uses_word_order": "yes",
+  "uses_context": "yes (self-attention, pretrained on 100 languages)",
+  "trainable_parameters": 278045186,
+  "best_val_macro_f1": 0.9496,
+  "settings": {
+    "model_name": "xlm-roberta-base",
+    "max_length": 128,
+    "batch_size": 16,
+    "lr": 2e-05,
+    "weight_decay": 0.01,
+    "warmup": 0.1,
+    "epochs": 4,
+    "best_epoch": 4,
+    "mixed_precision": true,
+    "device": "cuda"
+  },
+  "training_time_sec": 121.94,
+  "test_translated": {
+    "accuracy": 0.9749,
+    "macro_f1": 0.9749
+  },
+  "test_native": {
+    "accuracy": 0.9673,
+    "macro_f1": 0.9503,
+    "pure_khmer_macro_f1": 0.9623,
+    "code_switched_macro_f1": 0.7237
+  },
+  "test_native_label_source": "gold"
+}
